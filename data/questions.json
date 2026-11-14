@@ -1,0 +1,288 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Trường Đại học Bách khoa Hà Nội được thành lập vào ngày tháng năm nào theo nghị định nào?",
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 2,
+        "evidence": "Ngày 6/3/1956, Bộ trưởng Bộ Giáo dục Nguyễn Văn Huyên đã\nký nghị định 147/NĐ về việc thành lập trường Đại học Chuyên\nnghiệp Bách khoa nay là trường ĐHBK Hà Nội."
+      }
+    ],
+    "expected_answer": "Ngày 6/3/1956 theo Nghị định 147/NĐ của Bộ trưởng Bộ Giáo dục Nguyễn Văn Huyên.",
+    "filter": null
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Xe taxi có được phép đi vào trong khuôn viên trường không?",
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 5,
+        "evidence": "Xe taxi không được vào trường."
+      }
+    ],
+    "expected_answer": "Xe taxi không được vào trường.",
+    "filter": null
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Sau mấy giờ hàng ngày sinh viên không được tự ý tụ tập ở khu vực công cộng thuộc khuôn viên trường?",
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 5,
+        "evidence": "Sau 18h00 hàng ngày, không được tự ý tụ tập ở các khu vực công\ncộng thuộc khuôn viên của trường."
+      }
+    ],
+    "expected_answer": "Sau 18h00 hàng ngày.",
+    "filter": null
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Hành vi xúc phạm danh dự, nhân phẩm nhà giáo và cán bộ của trường bị xem xét như thế nào?",
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 6,
+        "evidence": "Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể nhà giáo, cán\nbộ, người lao động, người học của Đại học và người khác."
+      }
+    ],
+    "expected_answer": "Đây là hành vi bị nghiêm cấm trong cơ sở giáo dục và bị xem xét xử lý kỷ luật.",
+    "filter": null
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Các chương trình đào tạo tích hợp hệ chính quy được tổ chức theo mô hình nào và tổng thời gian đào tạo chuẩn là bao nhiêu năm?",
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 7,
+        "evidence": "Các chương trình đào tạo được tổ chức theo mô hình 4+1,5 (tổng thời gian đào tạo là 5,5 năm\nđối với người học cùng ngành và theo tiến độ chuẩn)."
+      }
+    ],
+    "expected_answer": "Mô hình 4+1,5 với tổng thời gian đào tạo là 5,5 năm đối với người học cùng ngành theo tiến độ chuẩn.",
+    "filter": null
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Chương trình đào tạo Kỹ sư hoặc Thạc sĩ khoa học chuyên sâu đặc thù bậc 7 yêu cầu bao nhiêu tín chỉ?",
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 7,
+        "evidence": "KỸ SƯ\n(180 tín chỉ - bậc 7)\n+ Định hướng chuyên sâu nghề nghiệp\nCấp bằng Kỹ sư\nTHẠC SĨ KHOA HỌC\n(180 tín chỉ - bậc 7)"
+      }
+    ],
+    "expected_answer": "Yêu cầu 180 tín chỉ (bậc 7).",
+    "filter": null
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Theo Thông tư số 40/2026/TT-BGDĐT, có mấy hình thức xử lý kỷ luật sinh viên và gồm những hình thức nào?",
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 12,
+        "evidence": "Theo Thông tư số 40/2026/TT-BGDĐT, có 4 hình thức xử lý kỷ luật sinh viên gồm:\n1. Khiển trách;\n2. Cảnh cáo;\n3. Đình chỉ học tập có thời hạn;\n4. Buộc thôi học."
+      }
+    ],
+    "expected_answer": "Có 4 hình thức gồm: Khiển trách, Cảnh cáo, Đình chỉ học tập có thời hạn, và Buộc thôi học.",
+    "filter": null
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Việc miễn giảm học phí cho sinh viên diện chế độ chính sách được thực hiện theo Nghị định nào của Chính phủ?",
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 14,
+        "evidence": "Việc miễn giảm học phí cho sinh viên diện chế độ chính sách (CĐCS) được thực hiện theo Nghị\nđịnh số 238/2025/NĐ-CP, ngày 03/09/2025 của Chính phủ."
+      }
+    ],
+    "expected_answer": "Nghị định số 238/2025/NĐ-CP ngày 03/09/2025 của Chính phủ.",
+    "filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Để đạt Học bổng loại xuất sắc trong Học bổng khuyến khích học tập, sinh viên cần thỏa mãn điều kiện GPA và điểm rèn luyện như thế nào?",
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 16,
+        "evidence": "GPA ≥ 3.6\nVÀ ĐIỂM RÈN LUYỆN\nHỌC KỲ ≥ 90 ĐIỂM\nHọc bổng loại xuất sắc\nBằng 1.5 lần mức học\nbổng loại khá"
+      }
+    ],
+    "expected_answer": "GPA ≥ 3.6 và Điểm rèn luyện học kỳ ≥ 90 điểm; mức học bổng bằng 1.5 lần mức học bổng loại khá.",
+    "filter": null
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Trường hợp nào sinh viên bị kỷ luật thì không được xét cấp học bổng khuyến khích học tập?",
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 16,
+        "evidence": "LƯU Ý: KHÔNG XÉT CẤP HỌC BỔNG\nĐỐI VỚI SV THUỘC MỘT TRONG CÁC TRƯỜNG HỢP SAU\na. Chịu hình thức kỷ luật từ mức khiển trách trở lên tại\nthời điểm xét học bổng;"
+      }
+    ],
+    "expected_answer": "Sinh viên chịu hình thức kỷ luật từ mức khiển trách trở lên tại thời điểm xét học bổng.",
+    "filter": null
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Học bổng Trần Đại Nghĩa có mấy mức hỗ trợ học phí cho sinh viên?",
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 17,
+        "evidence": "Học bổng Trần Đại Nghĩa có 2 mức tương ứng với 50% và 100% học phí sinh viên phải đóng"
+      }
+    ],
+    "expected_answer": "Có 2 mức tương ứng với 50% và 100% học phí.",
+    "filter": null
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Học bổng Gắn kết quê hương có trị giá bao nhiêu cho mỗi đồ án tốt nghiệp?",
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 18,
+        "evidence": "Học bổng gắn kết quê hương có trị\ngiá 5 triệu đồng/Đồ án tốt nghiệp."
+      }
+    ],
+    "expected_answer": "Trị giá 5 triệu đồng/Đồ án tốt nghiệp.",
+    "filter": null
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Trong phần quy chế và quy định, tiêu chí đánh giá điểm rèn luyện tối đa của sinh viên là bao nhiêu điểm?",
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 11,
+        "evidence": "I Tiêu chí điểm cộng (Tối đa 100 điểm)"
+      }
+    ],
+    "expected_answer": "Tối đa 100 điểm.",
+    "filter": {
+      "section": "quy_che_quy_dinh"
+    }
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Trong phần quy chế và quy định, Học bổng Trần Đại Nghĩa được xét cấp cho đối tượng sinh viên nào?",
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 17,
+        "evidence": "Học bổng Trần Đại Nghĩa là Học bổng của ĐHBK Hà Nội xét cấp cho sinh viên có hoàn cảnh kinh\ntế gia đình đặc biệt khó khăn (hộ nghèo, hộ cận nghèo hoặc hộ có hoàn cảnh kinh tế đặc biệt khó\nkhăn khác), có kết quả học tập và rèn luyện tốt."
+      }
+    ],
+    "expected_answer": "Sinh viên có hoàn cảnh kinh tế gia đình đặc biệt khó khăn (hộ nghèo, hộ cận nghèo...), có kết quả học tập và rèn luyện tốt.",
+    "filter": {
+      "section": "quy_che_quy_dinh"
+    }
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Theo thống kê có bao nhiêu phần trăm sinh viên Bách khoa từng có mong muốn hoặc đã làm công việc dạy kèm gia sư?",
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 21,
+        "evidence": "Theo thống kê, có trên 30% sinh viên ĐHB -\nKHN đã từng hoặc có nguyện vọng làm gia\nsư các môn như Toán, Lý, Hóa, Tiếng Anh, Tin"
+      }
+    ],
+    "expected_answer": "Trên 30% sinh viên.",
+    "filter": null
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Sinh viên đến trường bắt buộc phải mang theo loại giấy tờ tùy thân nào?",
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 5,
+        "evidence": "Sinh viên đến trường phải mang theo thẻ sinh viên, trang phục\ngọn gàng phù hợp với văn hóa Việt Nam và sự nghiêm túc của\ntrường đại học."
+      }
+    ],
+    "expected_answer": "Bắt buộc phải mang theo thẻ sinh viên.",
+    "filter": null
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Nếu sinh viên đăng ký học ít hơn bao nhiêu tín chỉ trong học kỳ xét thì sẽ không được xét cấp học bổng khuyến khích học tập?",
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 16,
+        "evidence": "c. Đăng ký học ít hơn 6 tín chỉ (kể cả các học phần\nkhông tính điểm GPA) tại học kỳ"
+      }
+    ],
+    "expected_answer": "Đăng ký học ít hơn 6 tín chỉ tại học kỳ lấy điểm xét cấp học bổng.",
+    "filter": null
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Văn phòng Trường Cơ khí (School of Mechanical Engineering) của ĐHBK Hà Nội nằm ở phòng nào?",
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 30,
+        "evidence": "Văn phòng: C7-614M\nhttps://sme.hust.edu.vn\nsme@hust.edu.vn\n024 38696165"
+      }
+    ],
+    "expected_answer": "Phòng C7-614M.",
+    "filter": null
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Trong phần quy chế và quy định, sinh viên có hành vi gian lận thi cử như thế nào thì bị xem xét xử lý kỷ luật?",
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 6,
+        "evidence": "Gian lận trong học tập, kiểm tra, thi cử như quay cóp, sử dụng\ntài liệu"
+      }
+    ],
+    "expected_answer": "Gian lận trong học tập, kiểm tra, thi cử như quay cóp, mang và sử dụng tài liệu trái phép trong phòng thi.",
+    "filter": {
+      "section": "quy_che_quy_dinh"
+    }
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Năm học 2026 - 2027 đánh dấu mốc bao nhiêu năm xây dựng và phát triển của trường Đại học Bách khoa Hà Nội?",
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 3,
+        "evidence": "Đại học Bách khoa Hà Nội đang\nbước vào dấu mốc 70 năm xây dựng\nvà phát triển (1956 - 2026)"
+      }
+    ],
+    "expected_answer": "Dấu mốc 70 năm xây dựng và phát triển (1956 - 2026).",
+    "filter": null
+  }
+]
