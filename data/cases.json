@@ -1,26 +1,174 @@
 [
-  {"id": "q01", "split": "dev", "question": "Trường Đại học Bách khoa Hà Nội được thành lập vào ngày tháng năm nào theo nghị định nào?", "answerable": true, "expected_behavior": "search_and_answer"},
-  {"id": "q02", "split": "dev", "question": "Xe taxi có được phép đi vào trong khuôn viên trường không?", "answerable": true, "expected_behavior": "search_and_answer"},
-  {"id": "q03", "split": "dev", "question": "Sau mấy giờ hàng ngày sinh viên không được tự ý tụ tập ở khu vực công cộng thuộc khuôn viên trường?", "answerable": true, "expected_behavior": "search_and_answer"},
-  {"id": "q04", "split": "dev", "question": "Hành vi xúc phạm danh dự, nhân phẩm nhà giáo và cán bộ của trường bị xem xét như thế nào?", "answerable": true, "expected_behavior": "search_and_answer"},
-  {"id": "q05", "split": "dev", "question": "Hành vi đánh bạc dưới mọi hình thức bị xử lý kỷ luật ở mức nào cho lần vi phạm thứ nhất?", "answerable": true, "expected_behavior": "search_and_answer"},
-  {"id": "q06", "split": "dev", "question": "Sinh viên bị xử lý kỷ luật buộc thôi học trong trường hợp nào liên quan đến ma túy?", "answerable": true, "expected_behavior": "search_and_answer"},
-  {"id": "q07", "split": "dev", "question": "Hành vi chứa chấp, buôn bán vũ khí, chất nổ và hàng cấm bị xử lý như thế nào ngay từ lần đầu vi phạm?", "answerable": true, "expected_behavior": "search_and_answer"},
-  {"id": "q08", "split": "dev", "question": "Điểm rèn luyện toàn khóa được tính theo công thức nào?", "answerable": true, "expected_behavior": "search_and_answer"},
-  {"id": "q09", "split": "dev", "question": "Sinh viên có kết quả rèn luyện xếp loại Yếu, Kém trong hai học kỳ liên tiếp thì bị xử lý kỷ luật ra sao?", "answerable": true, "expected_behavior": "search_and_answer"},
-  {"id": "q10", "split": "dev", "question": "Trang phục của sinh viên khi đến trường cần đảm bảo những yêu cầu gì?", "answerable": true, "expected_behavior": "search_and_answer"},
-  {"id": "q11", "split": "dev", "question": "Sinh viên có được phép hút thuốc lá trong khuôn viên trường không?", "answerable": true, "expected_behavior": "search_and_answer"},
-  {"id": "q12", "split": "dev", "question": "Thẻ sinh viên có được phép cho người khác mượn không?", "answerable": true, "expected_behavior": "search_and_answer"},
-  {"id": "q13", "split": "dev", "question": "Thời gian nghỉ học tạm thời vì lý do cá nhân được tính như thế nào vào tổng thời gian học tập tối đa?", "answerable": true, "expected_behavior": "search_and_answer"},
-  {"id": "q14", "split": "dev", "question": "Sinh viên bị cảnh báo học tập mức 2 có được phép đăng ký học vượt không?", "answerable": true, "expected_behavior": "search_and_answer"},
-  {"id": "q15", "split": "dev", "question": "Hành vi thi hộ hoặc nhờ người thi hộ bị xử lý như thế nào?", "answerable": true, "expected_behavior": "search_and_answer"},
-  {"id": "q_dev_un_01", "split": "dev", "question": "Sinh viên Bách khoa có được hỗ trợ 100% tiền vé máy bay khi tham gia trao đổi quốc tế không?", "answerable": false, "expected_behavior": "search_and_abstain", "absence_reason": "Sổ tay sinh viên không có bất kỳ quy định nào về việc hỗ trợ 100% tiền vé máy bay trao đổi quốc tế."},
-  {"id": "q_dev_un_02", "split": "dev", "question": "Quy chế có cho phép sinh viên mang thú cưng (chó, mèo) vào ký túc xá không?", "answerable": false, "expected_behavior": "search_and_abstain", "absence_reason": "Sổ tay sinh viên và quy định ký túc xá không đề cập đến việc cho phép mang thú cưng vào phòng ở."},
-  {"id": "q16", "split": "test", "question": "Mô hình đào tạo cử nhân - kỹ sư chuyên sâu của trường kéo dài trong bao nhiêu năm?", "answerable": true, "expected_behavior": "search_and_answer"},
-  {"id": "q17", "split": "test", "question": "Học bổng khuyến khích học tập của trường gồm những mức nào?", "answerable": true, "expected_behavior": "search_and_answer"},
-  {"id": "q18", "split": "test", "question": "Sinh viên muốn đăng ký xét tốt nghiệp cần đáp ứng chuẩn đầu ra ngoại ngữ đạt chứng chỉ gì hoặc trình độ tương đương mức nào?", "answerable": true, "expected_behavior": "search_and_answer"},
-  {"id": "q19", "split": "test", "question": "Mức học phí chương trình chuẩn một tín chỉ của năm học 2026-2027 quy định là bao nhiêu?", "answerable": true, "expected_behavior": "search_and_answer"},
-  {"id": "q20", "split": "test", "question": "Địa chỉ phòng khám đa khoa của Trạm Y tế trường nằm tại vị trí nào trong khuôn viên trường?", "answerable": true, "expected_behavior": "search_and_answer"},
-  {"id": "q_test_un_01", "split": "test", "question": "Sinh viên năm thứ nhất có được đăng ký học lái xe ô tô hạng B2 miễn phí tại trường không?", "answerable": false, "expected_behavior": "search_and_abstain", "absence_reason": "Tài liệu không có thông tin hay chính sách dạy lái xe ô tô hạng B2 miễn phí."},
-  {"id": "q_test_un_02", "split": "test", "question": "Trường Đại học Bách khoa Hà Nội có chính sách cấp học bổng du học toàn phần tại sao Hỏa không?", "answerable": false, "expected_behavior": "search_and_abstain", "absence_reason": "Tài liệu hoàn toàn không có thông tin phi thực tế về học bổng du học sao Hỏa."}
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Trường Đại học Bách khoa Hà Nội được thành lập vào ngày tháng năm nào theo nghị định nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Xe taxi có được phép đi vào trong khuôn viên trường không?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Sau mấy giờ hàng ngày sinh viên không được tự ý tụ tập ở khu vực công cộng thuộc khuôn viên trường?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Hành vi xúc phạm danh dự, nhân phẩm nhà giáo và cán bộ của trường bị xem xét như thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Các chương trình đào tạo tích hợp hệ chính quy được tổ chức theo mô hình nào và tổng thời gian đào tạo chuẩn là bao nhiêu năm?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Chương trình đào tạo Kỹ sư hoặc Thạc sĩ khoa học chuyên sâu đặc thù bậc 7 yêu cầu bao nhiêu tín chỉ?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Theo Thông tư số 40/2026/TT-BGDĐT, có mấy hình thức xử lý kỷ luật sinh viên và gồm những hình thức nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Việc miễn giảm học phí cho sinh viên diện chế độ chính sách được thực hiện theo Nghị định nào của Chính phủ?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Để đạt Học bổng loại xuất sắc trong Học bổng khuyến khích học tập, sinh viên cần thỏa mãn điều kiện GPA và điểm rèn luyện như thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Trường hợp nào sinh viên bị kỷ luật thì không được xét cấp học bổng khuyến khích học tập?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Học bổng Trần Đại Nghĩa có mấy mức hỗ trợ học phí cho sinh viên?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Học bổng Gắn kết quê hương có trị giá bao nhiêu cho mỗi đồ án tốt nghiệp?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Trong phần quy chế và quy định, tiêu chí đánh giá điểm rèn luyện tối đa của sinh viên là bao nhiêu điểm?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Trong phần quy chế và quy định, Học bổng Trần Đại Nghĩa được xét cấp cho đối tượng sinh viên nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Theo thống kê có bao nhiêu phần trăm sinh viên Bách khoa từng có mong muốn hoặc đã làm công việc dạy kèm gia sư?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Sinh viên đến trường bắt buộc phải mang theo loại giấy tờ tùy thân nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Nếu sinh viên đăng ký học ít hơn bao nhiêu tín chỉ trong học kỳ xét thì sẽ không được xét cấp học bổng khuyến khích học tập?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Văn phòng Trường Cơ khí (School of Mechanical Engineering) của ĐHBK Hà Nội nằm ở phòng nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Trong phần quy chế và quy định, sinh viên có hành vi gian lận thi cử như thế nào thì bị xem xét xử lý kỷ luật?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Năm học 2026 - 2027 đánh dấu mốc bao nhiêu năm xây dựng và phát triển của trường Đại học Bách khoa Hà Nội?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_dev_un_01",
+    "split": "dev",
+    "question": "Sinh viên Bách khoa có được hỗ trợ 100% tiền vé máy bay khi tham gia trao đổi quốc tế không?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tài liệu không có quy định hỗ trợ 100% vé máy bay trao đổi quốc tế."
+  },
+  {
+    "id": "q_dev_un_02",
+    "split": "dev",
+    "question": "Quy chế có cho phép sinh viên mang thú cưng (chó, mèo) vào ký túc xá không?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tài liệu không cho phép mang thú cưng vào ký túc xá."
+  },
+  {
+    "id": "q_test_un_01",
+    "split": "test",
+    "question": "Sinh viên năm thứ nhất có được đăng ký học lái xe ô tô hạng B2 miễn phí tại trường không?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tài liệu không có chính sách dạy lái xe ô tô miễn phí."
+  },
+  {
+    "id": "q_test_un_02",
+    "split": "test",
+    "question": "Trường Đại học Bách khoa Hà Nội có chính sách cấp học bổng du học toàn phần tại sao Hỏa không?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tài liệu không có thông tin phi thực tế này."
+  }
 ]
