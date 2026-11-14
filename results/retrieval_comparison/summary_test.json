@@ -1,0 +1,29 @@
+[
+  {
+    "strategy": "TF-IDF (Lexical)",
+    "n": 5,
+    "hit1": "4/5 (80.0%)",
+    "hit3": "5/5 (100.0%)",
+    "context_evidence_rate": "4/5 (80.0%)",
+    "median_ms": 0.25,
+    "mean_ms": 0.26
+  },
+  {
+    "strategy": "Dense (Vector Store)",
+    "n": 5,
+    "hit1": "3/5 (60.0%)",
+    "hit3": "5/5 (100.0%)",
+    "context_evidence_rate": "4/5 (80.0%)",
+    "median_ms": 921.08,
+    "mean_ms": 1183.89
+  },
+  {
+    "strategy": "Hybrid (RRF)",
+    "n": 5,
+    "hit1": "5/5 (100.0%)",
+    "hit3": "5/5 (100.0%)",
+    "context_evidence_rate": "4/5 (80.0%)",
+    "median_ms": 970.4,
+    "mean_ms": 948.69
+  }
+]

@@ -1,0 +1,357 @@
+[
+  {
+    "query_id": "q16",
+    "split": "test",
+    "question": "Sinh viên đến trường bắt buộc phải mang theo loại giấy tờ tùy thân nào?",
+    "strategy": "Hybrid (RRF)",
+    "top_k": 3,
+    "budget_chars": 2500,
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 5,
+        "evidence": "Sinh viên đến trường phải mang theo thẻ sinh viên, trang phục\ngọn gàng phù hợp với văn hóa Việt Nam và sự nghiêm túc của\ntrường đại học."
+      }
+    ],
+    "results": [
+      {
+        "id": "hust-handbook-2026_p5_para_0",
+        "source_id": "hust-handbook-2026",
+        "source": "data\\So_tay_sinh_vien_2026_compressed.pdf",
+        "page": 5,
+        "text": "8 9\n1\nQUY ĐỊNH\nSINH VIÊN CẦN LƯU Ý\nSinh viên đến trường phải mang theo thẻ sinh viên, trang phục\ngọn gàng phù hợp với văn hóa Việt Nam và sự nghiêm túc của\ntrường đại học.\nTrường hợp đi xe đạp, xe máy, ô tô vào trường phải lưu ý giảm tốc\nđộ, thận trọng quan sát xung quanh và gửi xe đúng nơi quy định.\nXe taxi không được vào trường.\nKhông được tự ý mang tài sản của trường ra ngoài khuôn viên\ntrường.\nSau 18h00 hàng ngày, không được tự ý tụ tập ở các khu vực công\ncộng thuộc khuôn viên của trường. Mọi hoạt động văn hoá, văn\nnghệ, thể dục, thể thao tổ chức trong trường phải được sự đồng\ný cho phép bằng văn bản của Nhà trường.\nKhông tự ý tổ chức các hoạt động quảng cáo, dịch vụ hoặc tổ\nchức đánh bạc trong khuôn viên trường dưới mọi hình thức.\nSinh viên vi phạm sẽ bị kỷ luật từ cảnh cáo đến buộc thôi học.\n2\n3\n4\n5\n6\n1\nQUY TẮC\nGIAO TIẾP  ĐỐI VỚI SINH VIÊN,\nHỌC VIÊN, NGHIÊN CỨU SINH\nKính trọng, lễ phép, tôn sự trọng đạo với thầy cô; tôn trọng, hợp\ntác, lịch sự, nhã nhặn với cán bộ, nhân viên Trường.\nĐoàn kết, tương trợ, bình đẳng và tôn trọng sự khác biệt\nvới bạn bè.\nThân thiện, lịch sự, tận tình hướng dẫn với khách của Trường.\nTrang phục phù hợp với môi trường sư phạm; đeo thẻ sinh\nviên/học viên khi đến Trường.\nỨng xử chuẩn mực, văn minh trên môi trường mạng.\nCó ý thức, trách nhiệm bảo vệ danh tiếng\nvà tài sản của Trường.\n2\n3\n4\n5\n6\nXem thêm tại đây:",
+        "metadata": {
+          "section": "quy_che_quy_dinh",
+          "year": 2026,
+          "char_count": 1361
+        },
+        "score": 0.03278688524590164,
+        "strategy": "hybrid_rrf",
+        "hit": true
+      },
+      {
+        "id": "hust-handbook-2026_p14_para_0",
+        "source_id": "hust-handbook-2026",
+        "source": "data\\So_tay_sinh_vien_2026_compressed.pdf",
+        "page": 14,
+        "text": "26 27\nĐỐI TƯỢNG VÀ MỨC MIỄN, GIẢM HỌC PHÍ\nViệc miễn giảm học phí cho sinh viên diện chế độ chính sách (CĐCS) được thực hiện theo Nghị\nđịnh số 238/2025/NĐ-CP, ngày 03/09/2025 của Chính phủ.\nHƯỚNG DẪN GIẢI QUYẾT\nCHẾ ĐỘ CHÍNH SÁCH\nTT Đối tượng Mức miễn, giảm HP (%)\n1\nSinh viên là con (con đẻ, con nuôi) của người có công với cách mạng được quy định tại Pháp lệnh\nsố 02/2020/UBTVQH14 ngày 09/12/2020 của Ủy ban Thường vụ Quốc hội, gồm có:\na) Con của người hoạt động cách mạng trước ngày 01/01/1945; con của người hoạt động cách\nmạng từ ngày 01/01/1945 đến ngày Khởi nghĩa tháng Tám năm 1945;\nb) Con của liệt sỹ;\nc) Con của anh hùng lực lượng vũ trang nhân dân;\nd) Con của anh hùng lao động trong thời kỳ kháng chiến;\nđ) Con của thương binh, con của người hưởng chính sách như thương binh;\ne) Con của bệnh binh;\ng) Con của người hoạt động kháng chiến bị nhiễm chất độc hoá học.\n100\n2 Sinh viên khuyết tật 100\n3\nSinh viên từ 16 đến 22 tuổi không có nguồn nuôi dưỡng thuộc đối tượng hưởng trợ cấp xã hội\nhàng tháng theo quy định tại khoản 1 và khoản 2 Điều 5 Nghị định số 20/2021/NĐ-CP ngày\n15/3/2021 của Chính phủ về chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội.\n100\n4 Sinh viên hệ cử tuyển theo quy định của Chính phủ.  100\n5 Sinh viên là người dân tộc thiểu số có cha hoặc mẹ hoặc cả cha và mẹ hoặc ông, bà (trong trường hợp sinh viên ở với ông, bà) thuộc hộ nghèo và hộ cận nghèo. 100\n6\nSinh viên là người dân tộc thiểu số rất ít người (Cống, Mảng, Pu Péo, Si La, Cờ Lao, Bố Y, La Ha,\nNgái, Chứt, Ơ Đu, Brâu, Rơ Măm, Lô Lô, Lự, Pà Thẻn, La Hủ) ở vùng có điều kiện kinh tế - xã hội\nkhó khăn hoặc đặc biệt khó khăn.\n100\n7\nSinh viên người dân tộc thiểu số (ngoài đối tượng dân tộc thiểu số rất ít người) mà bản thân và\ncha hoặc mẹ có nơi thường trú tại thôn/bản đặc biệt khó khăn, xã khu vực III vùng đồng bào dân\ntộc thiểu số và miền núi, xã đặc biệt khó khăn vùng bãi ngang, ven biển và hải đảo.\n70\n8 Sinh viên có cha hoặc mẹ bị tai nạn lao động hoặc mắc bệnh nghề nghiệp được hưởng trợ cấp thường xuyên. 50\nChi tiết thông tin\n& hướng dẫn chuẩn bị hồ sơ\nxem tại đây:\nTÀI CHÍNH\nSINH VIÊN\nXÁC NHẬN GIẤY ƯU ĐÃI GIÁO DỤC, ĐÀO TẠO\nXÁC NHẬN ĐƯỢC HƯỞNG HỌC BỔNG CHÍNH SÁCH\nXÁC NHẬN GIẤY VAY VỐN NGÂN HÀNG\nSinh viên được nhận giấy ưu đãi giáo dục sau khi đã hoàn thành việc nộp Hồ sơ CĐCS cho\nNhà trường.\nSinh viên diện cử tuyển nộp và nhận giấy xác nhận được hưởng học bổng chính sách tại phòng\n102 – Nhà C1 vào đầu các học kỳ.\nViệc xác nhận thủ tục vay vốn ngân hàng được thực hiện theo chương trình hỗ trợ sinh viên có\nhoàn cảnh khó khăn (theo Quyết định số 157/QĐ-TTg của Thủ tướng Chính phủ), sinh viên học\ntập các ngành học STEM (theo Quyết định số 29/2025/QĐ-TTg của Thủ tướng Chính phủ).\nCÁCH THỨC ĐĂNG KÝ CẤP GIẤY VAY VỐN:\nSinh viên đăng nhập vào tài khoản cá nhân trên hệ thống cổng thông tin sinh viên eHUST hoặc\nsổ tay CTSV online để đăng ký nhận giấy vay vốn.\nHệ thống sẽ tự động hẹn lịch trả giấy vay vốn tại Ban Công tác Sinh viên.\nĐịa điểm cấp giấy ưu đãi giáo dục:  Phòng 102 Nhà C1.\nVay vốn đối với sinh viên có hoàn cảnh khó\nkhăn\nĐỐI TƯỢNG ĐƯỢC VAY VỐN:\n- Sinh viên thuộc một trong các diện sau\nđược vay vốn tại Ngân hàng chính sách:\n- Sinh viên mồ côi cả cha lẫn mẹ hoặc chỉ mồ\ncôi cha hoặc mẹ nhưng người còn lại không\ncó khả năng lao động.\n- Sinh viên là thành viên của hộ nghèo, cận\nnghèo theo quy định của Nhà nước.\n- Sinh viên là thành viên của hộ gia đình có\nmức thu nhập bình quân đầu người tối đa\nbằng 150% mức thu nhập bình quân đầu\nngười của hộ gia đình nghèo theo quy định\ncủa Nhà nước.\n- Sinh viên thuộc hộ gia đình gặp khó khăn về\ntài chính do tai nạn, bệnh tật, thiên tai, hỏa\nhoạn, dịch bệnh trong thời gian theo học có\nxác nhận của Ủy ban nhân dân xã, phường,\nthị trấn nơi cư trú.\nĐỊNH MỨC VAY: 4.000.000đ/ sinh viên/\ntháng\nVay vốn STEM\nĐỐI TƯỢNG ĐƯỢC VAY VỐN:\n- Sinh viên các ngành khoa học kỹ thuật,\ncông nghệ (sinh viên thuộc các trường, khoa:\nCơ khí, Điện – Điện tử, Công nghệ Thông tin\nvà Truyền thông, Vật liệu, Hóa và Khoa học\nsự sống, Toán – Tin, Vật lý Kỹ thuật).\nĐiều kiện để được vay vốn:\n- Sinh viên năm thứ nhất: có 3 năm THPT đạt\nloại Khá hoặc các môn Toán, lý, hoá, sinh lớp\n12 từ 8.0 trở lên\n- Sinh viên từ năm thứ 2 trở đi: có kết quả\nhọc tập trung bình của năm học liền trước\nđạt loại giỏi trở lên (từ 3.2 trở lên).\nĐỊNH MỨC VAY: toàn bộ tiền học phí phải\nđóng của theo xác nhận của ĐHBK Hà Nội và\ntiền sinh hoạt phí và chi phí học tập khác tối\nđa là 5 triệu đồng/tháng.",
+        "metadata": {
+          "section": "quy_che_quy_dinh",
+          "year": 2026,
+          "char_count": 4428
+        },
+        "score": 0.03200204813108039,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "hust-handbook-2026_p16_para_0",
+        "source_id": "hust-handbook-2026",
+        "source": "data\\So_tay_sinh_vien_2026_compressed.pdf",
+        "page": 16,
+        "text": "30 31\nHỌC BỔNG\nKHUYẾN KHÍCH HỌC TẬP\nA\nGPA ≥ 3.6\nVÀ ĐIỂM RÈN LUYỆN\nHỌC KỲ ≥ 90 ĐIỂM\nHọc bổng loại xuất sắc\nBằng 1.5 lần mức học\nbổng loại khá\nLƯU Ý: KHÔNG XÉT CẤP HỌC BỔNG\nĐỐI VỚI SV THUỘC MỘT TRONG CÁC TRƯỜNG HỢP SAU\na. Chịu hình thức kỷ luật từ mức khiển trách trở lên tại\nthời điểm xét học bổng;\nb. Đăng ký học ít nhất hơn 15 tín chỉ (kể cả các học\nphần không tính điểm GPA) tại học kỳ lấy điểm xét cấp\nhọc bổng, ngoại trừ học kỳ 1 năm học thứ nhất.\nc. Đăng ký học ít hơn 6 tín chỉ (kể cả các học phần\nkhông tính điểm GPA) tại học kỳ cấp học bổng;\nBan CTSV: ctsv@hust.edu.vn\nSinh viên cần tư vấn liên hệ:\nBan Đào tạo: dt@hust.edu.vn\nB\nGPA ≥ 3.2\nVÀ ĐIỂM RÈN LUYỆN\nHỌC KỲ ≥ 80 ĐIỂM\nHọc bổng loại giỏi\nBằng 1.2 lần mức học\nbổng loại khá\nC\nGPA ≥ 2.5\nVÀ ĐIỂM RÈN LUYỆN\nHỌC KỲ ≥ 65 ĐIỂM\nHọc bổng loại khá\nBằng tổng học phí của\ncác học phần có tính\nđiểm GPA của học kỳ\nchính liền trước\nd. Học quá thời gian học tập chuẩn của chương trình\nđào tạo.\nđ. Học chương trình đào tạo do trường đối tác nước\nngoài cấp một văn bằng tốt nghiệp duy nhất.\nHỌC BỔNG\nTÀI TRỢ DOANH NGHIỆP\n01\n02\n03\n04\n05\n06\nSinh viên cập nhật thông tin về các chương trình học\nbổng doanh nghiệp trên QLĐT/eHUST\nSinh viên hoàn thành form đăng ký online theo hướng\ndẫn trong thông báo\nSinh viên nhận kết quả sơ loại hồ sơ trên QLĐT/eHUST\nSinh viên vượt qua vòng hồ sơ online sẽ nhận được\nemail hướng dẫn chuẩn bị hồ sơ bản cứng và nộp hồ sơ\ntheo hướng dẫn\nSinh viên nhận kết quả xét học bổng cuối cùng qua\nemail hoặc xem danh sách sinh viên nhận học bổng trên\nQLĐT/eHUST\nSinh viên nhận học bổng qua chuyển khoản ngân hàng\ntừ nhà trường hoặc doanh nghiệp/ quỹ học bổng tài trợ\nvà tham dự Lễ trao học bổng theo hướng dẫn của nhà\ntrường\nBan CTSV: ctsv@hust.edu.vn",
+        "metadata": {
+          "section": "quy_che_quy_dinh",
+          "year": 2026,
+          "char_count": 1719
+        },
+        "score": 0.03007688828584351,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      }
+    ],
+    "context": "[hust-handbook-2026_p5_para_0 | data\\So_tay_sinh_vien_2026_compressed.pdf | page 5]\n8 9\n1\nQUY ĐỊNH\nSINH VIÊN CẦN LƯU Ý\nSinh viên đến trường phải mang theo thẻ sinh viên, trang phục\ngọn gàng phù hợp với văn hóa Việt Nam và sự nghiêm túc của\ntrường đại học.\nTrường hợp đi xe đạp, xe máy, ô tô vào trường phải lưu ý giảm tốc\nđộ, thận trọng quan sát xung quanh và gửi xe đúng nơi quy định.\nXe taxi không được vào trường.\nKhông được tự ý mang tài sản của trường ra ngoài khuôn viên\ntrường.\nSau 18h00 hàng ngày, không được tự ý tụ tập ở các khu vực công\ncộng thuộc khuôn viên của trường. Mọi hoạt động văn hoá, văn\nnghệ, thể dục, thể thao tổ chức trong trường phải được sự đồng\ný cho phép bằng văn bản của Nhà trường.\nKhông tự ý tổ chức các hoạt động quảng cáo, dịch vụ hoặc tổ\nchức đánh bạc trong khuôn viên trường dưới mọi hình thức.\nSinh viên vi phạm sẽ bị kỷ luật từ cảnh cáo đến buộc thôi học.\n2\n3\n4\n5\n6\n1\nQUY TẮC\nGIAO TIẾP  ĐỐI VỚI SINH VIÊN,\nHỌC VIÊN, NGHIÊN CỨU SINH\nKính trọng, lễ phép, tôn sự trọng đạo với thầy cô; tôn trọng, hợp\ntác, lịch sự, nhã nhặn với cán bộ, nhân viên Trường.\nĐoàn kết, tương trợ, bình đẳng và tôn trọng sự khác biệt\nvới bạn bè.\nThân thiện, lịch sự, tận tình hướng dẫn với khách của Trường.\nTrang phục phù hợp với môi trường sư phạm; đeo thẻ sinh\nviên/học viên khi đến Trường.\nỨng xử chuẩn mực, văn minh trên môi trường mạng.\nCó ý thức, trách nhiệm bảo vệ danh tiếng\nvà tài sản của Trường.\n2\n3\n4\n5\n6\nXem thêm tại đây:",
+    "context_ids": [
+      "hust-handbook-2026_p5_para_0"
+    ],
+    "context_chars": 1445,
+    "elapsed_ms": 991.02590000075,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q17",
+    "split": "test",
+    "question": "Nếu sinh viên đăng ký học ít hơn bao nhiêu tín chỉ trong học kỳ xét thì sẽ không được xét cấp học bổng khuyến khích học tập?",
+    "strategy": "Hybrid (RRF)",
+    "top_k": 3,
+    "budget_chars": 2500,
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 16,
+        "evidence": "c. Đăng ký học ít hơn 6 tín chỉ (kể cả các học phần\nkhông tính điểm GPA) tại học kỳ"
+      }
+    ],
+    "results": [
+      {
+        "id": "hust-handbook-2026_p16_para_0",
+        "source_id": "hust-handbook-2026",
+        "source": "data\\So_tay_sinh_vien_2026_compressed.pdf",
+        "page": 16,
+        "text": "30 31\nHỌC BỔNG\nKHUYẾN KHÍCH HỌC TẬP\nA\nGPA ≥ 3.6\nVÀ ĐIỂM RÈN LUYỆN\nHỌC KỲ ≥ 90 ĐIỂM\nHọc bổng loại xuất sắc\nBằng 1.5 lần mức học\nbổng loại khá\nLƯU Ý: KHÔNG XÉT CẤP HỌC BỔNG\nĐỐI VỚI SV THUỘC MỘT TRONG CÁC TRƯỜNG HỢP SAU\na. Chịu hình thức kỷ luật từ mức khiển trách trở lên tại\nthời điểm xét học bổng;\nb. Đăng ký học ít nhất hơn 15 tín chỉ (kể cả các học\nphần không tính điểm GPA) tại học kỳ lấy điểm xét cấp\nhọc bổng, ngoại trừ học kỳ 1 năm học thứ nhất.\nc. Đăng ký học ít hơn 6 tín chỉ (kể cả các học phần\nkhông tính điểm GPA) tại học kỳ cấp học bổng;\nBan CTSV: ctsv@hust.edu.vn\nSinh viên cần tư vấn liên hệ:\nBan Đào tạo: dt@hust.edu.vn\nB\nGPA ≥ 3.2\nVÀ ĐIỂM RÈN LUYỆN\nHỌC KỲ ≥ 80 ĐIỂM\nHọc bổng loại giỏi\nBằng 1.2 lần mức học\nbổng loại khá\nC\nGPA ≥ 2.5\nVÀ ĐIỂM RÈN LUYỆN\nHỌC KỲ ≥ 65 ĐIỂM\nHọc bổng loại khá\nBằng tổng học phí của\ncác học phần có tính\nđiểm GPA của học kỳ\nchính liền trước\nd. Học quá thời gian học tập chuẩn của chương trình\nđào tạo.\nđ. Học chương trình đào tạo do trường đối tác nước\nngoài cấp một văn bằng tốt nghiệp duy nhất.\nHỌC BỔNG\nTÀI TRỢ DOANH NGHIỆP\n01\n02\n03\n04\n05\n06\nSinh viên cập nhật thông tin về các chương trình học\nbổng doanh nghiệp trên QLĐT/eHUST\nSinh viên hoàn thành form đăng ký online theo hướng\ndẫn trong thông báo\nSinh viên nhận kết quả sơ loại hồ sơ trên QLĐT/eHUST\nSinh viên vượt qua vòng hồ sơ online sẽ nhận được\nemail hướng dẫn chuẩn bị hồ sơ bản cứng và nộp hồ sơ\ntheo hướng dẫn\nSinh viên nhận kết quả xét học bổng cuối cùng qua\nemail hoặc xem danh sách sinh viên nhận học bổng trên\nQLĐT/eHUST\nSinh viên nhận học bổng qua chuyển khoản ngân hàng\ntừ nhà trường hoặc doanh nghiệp/ quỹ học bổng tài trợ\nvà tham dự Lễ trao học bổng theo hướng dẫn của nhà\ntrường\nBan CTSV: ctsv@hust.edu.vn",
+        "metadata": {
+          "section": "quy_che_quy_dinh",
+          "year": 2026,
+          "char_count": 1719
+        },
+        "score": 0.03225806451612903,
+        "strategy": "hybrid_rrf",
+        "hit": true
+      },
+      {
+        "id": "hust-handbook-2026_p9_para_0",
+        "source_id": "hust-handbook-2026",
+        "source": "data\\So_tay_sinh_vien_2026_compressed.pdf",
+        "page": 9,
+        "text": "16 17\nTHỰC HIỆN\nKẾ HOẠCH HỌC TẬP\nNHẬN BIẾT BẢN THÂN\nCần tự biết những thói quen của bản thân\nCần tự biết cá tính của bản thân\nQUY TẮC SẮP XẾP THỜI\nGIAN KHOA HỌC\nCần sắp xếp thời gian học tập một cách\nkhoa học: để đạt mục tiêu học tập của kỳ\nKhi sắp xếp thời gian phải đảm bảo 4\nyếu tố:\n+ Toàn diện\n+ Hợp lý\n+ Nổi bật trọng điểm\n+ Dành khoảng thời gian trống\nTỰ ĐÁNH GIÁ KẾT QUẢ\nBẢN THÂN\nTự so sánh kết quả học tập với các bạn\ntrong lớp\nTự đánh giá với kết quả đó và thời gian\nđã đầu tư cho học tập để kiểm tra lại mục\ntiêu sau mỗi học kỳ và tránh việc học\nthừa hoặc thiếu học phần\nKiểm tra bảng theo dõi quá trình học\ntập cá nhân trên ctt.hust.edu.vn để nắm\nđược: tiến độ và kết quả học tập; mức\ncảnh báo học tập; số tín chỉ nợ; khối\nlượng còn lại của CTĐT; tình trạng các\nmôn học tương đương hoặc thay thế để\nxin chuyển điểm tương đương;.....\nĐẢM BẢO ĐIỀU KIỆN\nHỌC TẬP\nCó đầy đủ giáo trình/sách tham khảo\nDùng ứng dụng quản lý thời gian\nTẬP TRUNG VÀ TỰ HỌC\nĐi học đúng giờ\nTập trung tâm trí cho việc học tập\nĐọc trước mô tả học phần/đề cương chi\ntiết/kế hoạch giảng dạy học phần; Nắm\nrõ phương pháp kiểm tra đánh giá, trọng\nsố học phần\nLẬP THỜI GIAN BIỂU\nCHI TIẾT\nCần bao nhiêu thời gian để tự học\nLập lịch trình\nLên kế hoạch chi tiết theo ngày\nNếu lịch trình bận rộn thì cần linh hoạt,\nsáng tạo\nCÁC ĐIỂM CẦN LƯU Ý\nRÈN KỸ NĂNG XÂY DỰNG\nLỊCH TRÌNH HỌC TẬP\nThống kê toàn bộ các học phần, số tín chỉ\ncó trong từng học kỳ, năm học, khóa học\n(theo khung CTĐT)\nTheo dõi và đánh giá sự tiến bộ so với kế\nhoạch đề ra nhằm rút ngắn thời gian hoàn\nthành CTĐT\nXác định đăng ký các học phần phù hợp\nvới năng lực và mục tiêu đã đề ra trong\ntừng học kỳ\nCân bằng phân bổ thời gian giữa học tập\nvà các hoạt động xã hội, hoạt động tăng\ncường kỹ năng\nTỰ LẬP BẢNG THEO DÕI\nQUÁ TRÌNH HỌC TẬP\nTổng hợp các học phần đã đạt và chưa\nđạt nhằm chủ động đăng ký các kỳ tiếp\ntheo\nKiểm tra đối chiếu mục tiêu đã đề ra sau\nmỗi kỳ học\nTổng hợp điểm trung bình các học phần\nđể quyết định đăng ký học cải thiện khi\ncần thiết\nTránh tình trạng học thừa hoặc thiếu các\nhọc phần thuộc CTĐT\nĐÁNH GIÁ ƯU ĐIỂM VÀ\nHẠN CHẾ CỦA BẢN THÂN\nDuy trì việc tự đánh giá sau mỗi học kỳ\nKịp thời nhận biết ưu điểm và hạn chế\ncủa bản thân để điều chỉnh kế hoạch học\ntập phù hợp với mục tiêu đã đề ra\nHÌNH THÀNH KỶ LUẬT\nHỌC TẬP\nRèn luyện tính tự giác khi học, đặc biệt\nkhi học theo hình thức trực tuyến\nTuân thủ triệt để kế hoạch học tập đã\nđề ra\nTự rèn luyện bản thân theo kế hoạch học\ntập\nHình thành thói quen học tập hàng ngày,\nghi chép bài, nghe giảng đầy đủ",
+        "metadata": {
+          "section": "quy_che_quy_dinh",
+          "year": 2026,
+          "char_count": 2508
+        },
+        "score": 0.03125,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "hust-handbook-2026_p17_para_0",
+        "source_id": "hust-handbook-2026",
+        "source": "data\\So_tay_sinh_vien_2026_compressed.pdf",
+        "page": 17,
+        "text": "32 33\nHỌC BỔNG\nTRẦN ĐẠI NGHĨA\nĐỐI TƯỢNG XÉT CẤP HỌC BỔNG\nMỤC ĐÍCH CỦA HỌC BỔNG\nMỨC HỌC BỔNG\nHọc bổng Trần Đại Nghĩa là Học bổng của ĐHBK Hà Nội xét cấp cho sinh viên có hoàn cảnh kinh\ntế gia đình đặc biệt khó khăn (hộ nghèo, hộ cận nghèo hoặc hộ có hoàn cảnh kinh tế đặc biệt khó\nkhăn khác), có kết quả học tập và rèn luyện tốt.\nHọc bổng Trần Đại Nghĩa có 2 mức tương ứng với 50% và 100% học phí sinh viên phải đóng\ntrong học kỳ xét, cấp học bổng.\nNGUYÊN TẮC XÉT, CẤP HỌC BỔNG TRẦN ĐẠI NGHĨA\nHọc bổng Trần Đại Nghĩa được xét, cấp theo học kỳ, mỗi học kỳ xét 01 lần vào đầu học kỳ.\nThực hiện trách nhiệm của ĐHBKHN đối với xã\nhội trong công tác đào tạo nguồn nhân lực chất\nlượng cao phục vụ cho quá trình công nghiệp\nhóa, hiện đại hóa đất nước.\nHọc bổng vinh dự mang tên GS. Trần Đại Nghĩa\n(1913 – 1997) - Giáo sư, kỹ sư quân sự, nhà bác học,\nTướng lĩnh Quân đội nhân dân Việt Nam.\nHỗ trợ cho những sinh viên của Trường có hoàn\ncảnh khó khăn, có ý chí, nghị lực vươn lên trong\nhọc tập.\nThu hút những học sinh xuất sắc vào học tại\nĐHBKHN.\nKhông xét, cấp học bổng Trần Đại Nghĩa cho những sinh viên không đăng ký học tập tại thời\nđiểm xét, cấp học bổng.\nKhông xét, cấp học bổng Trần Đại Nghĩa cho những sinh viên đang trong thời gian bị kỷ luật\ntừ mức cảnh cáo trở lên.\nKhông xét, cấp học bổng Trần Đại Nghĩa cho những sinh viên đã được nhận học bổng KKHT\nhoặc học bổng tài trợ trong học kỳ xét, cấp học bổng Trần Đại Nghĩa.\nKhông xét, cấp học bổng Trần Đại Nghĩa cho sinh viên diện chế độ chính sách được miễn, giảm\nhọc phí theo quy định của Nhà nước.\nHỌC BỔNG\nTRAO ĐỔI SINH VIÊN\nĐỐI TƯỢNG HỌC BỔNG MỨC HỌC BỔNG\nHọc bổng xét cấp cho sinh viên xếp\nhạng trình độ năm học từ năm thứ\n3 trở đi có CPA ≥ 3.2, ĐRL tích lũy\n≥ 80, có trình độ ngoại ngữ và môn\nđăng ký học tập/ thực tập phù hợp.\nHọc bổng có giá trị tối đa là 30 triệu đồng/sinh\nviên.\nHọc bổng được cấp bằng vé máy bay khứ hồi và\ngói bảo hiểm du lịch quốc tế Flexi mức Vàng của\ncông ty Bảo hiểm Bảo Việt (học bổng không cấp\nbằng tiền mặt).\nQUY TRÌNH XÉT, CẤP HỌC BỔNG\nBan Công tác sinh viên thông báo công khai thông tin về các chương trình học  bổng trao\nđổi sinh viên trên QLĐT/ eHUST.\nSinh viên đăng ký xét học bổng bằng hình thức trực tuyến (online) và nộp hồ sơ văn bản\ngiấy về Ban Công tác sinh viên.\nHết thời gian đăng ký, Ban Công tác sinh viên tổng hợp danh sách và báo cáo Hội đồng xét,\ncấp học bổng trao đổi sinh viên để họp xét.\nBan Công tác sinh viên làm hồ sơ báo cáo Giám đốc đại học ra quyết định cấp học bổng\ncho sinh viên.\nMỤC ĐÍCH CỦA HỌC BỔNG\nThực hiện trách nhiệm của ĐHBK Hà Nội đối với xã hội\ntrong công tác đào tạo nguồn nhân lực chất lượng cao\nphục vụ cho quá trình công nghiệp hóa, hiện đại hóa đất\nnước.\nTạo điều kiện và hỗ trợ một phần kinh phí cho sinh viên\nĐHBK Hà Nội đi học tập, nâng cao trình độ chuyên môn,\nngoại ngữ, phát triển kỹ năng, kinh nghiệm trong môi\ntrường giáo dục quốc tế, góp phần nâng cao hiệu quả,\nchất lượng đào tạo.\nTăng cường hội nhập quốc tế, góp phần quảng bá và\nnâng cao hình ảnh, vị thế của Đại học Bách khoa Hà Nội.\nThu hút học sinh xuất sắc vào học tại ĐHBK Hà Nội",
+        "metadata": {
+          "section": "quy_che_quy_dinh",
+          "year": 2026,
+          "char_count": 3076
+        },
+        "score": 0.031099324975891997,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      }
+    ],
+    "context": "[hust-handbook-2026_p16_para_0 | data\\So_tay_sinh_vien_2026_compressed.pdf | page 16]\n30 31\nHỌC BỔNG\nKHUYẾN KHÍCH HỌC TẬP\nA\nGPA ≥ 3.6\nVÀ ĐIỂM RÈN LUYỆN\nHỌC KỲ ≥ 90 ĐIỂM\nHọc bổng loại xuất sắc\nBằng 1.5 lần mức học\nbổng loại khá\nLƯU Ý: KHÔNG XÉT CẤP HỌC BỔNG\nĐỐI VỚI SV THUỘC MỘT TRONG CÁC TRƯỜNG HỢP SAU\na. Chịu hình thức kỷ luật từ mức khiển trách trở lên tại\nthời điểm xét học bổng;\nb. Đăng ký học ít nhất hơn 15 tín chỉ (kể cả các học\nphần không tính điểm GPA) tại học kỳ lấy điểm xét cấp\nhọc bổng, ngoại trừ học kỳ 1 năm học thứ nhất.\nc. Đăng ký học ít hơn 6 tín chỉ (kể cả các học phần\nkhông tính điểm GPA) tại học kỳ cấp học bổng;\nBan CTSV: ctsv@hust.edu.vn\nSinh viên cần tư vấn liên hệ:\nBan Đào tạo: dt@hust.edu.vn\nB\nGPA ≥ 3.2\nVÀ ĐIỂM RÈN LUYỆN\nHỌC KỲ ≥ 80 ĐIỂM\nHọc bổng loại giỏi\nBằng 1.2 lần mức học\nbổng loại khá\nC\nGPA ≥ 2.5\nVÀ ĐIỂM RÈN LUYỆN\nHỌC KỲ ≥ 65 ĐIỂM\nHọc bổng loại khá\nBằng tổng học phí của\ncác học phần có tính\nđiểm GPA của học kỳ\nchính liền trước\nd. Học quá thời gian học tập chuẩn của chương trình\nđào tạo.\nđ. Học chương trình đào tạo do trường đối tác nước\nngoài cấp một văn bằng tốt nghiệp duy nhất.\nHỌC BỔNG\nTÀI TRỢ DOANH NGHIỆP\n01\n02\n03\n04\n05\n06\nSinh viên cập nhật thông tin về các chương trình học\nbổng doanh nghiệp trên QLĐT/eHUST\nSinh viên hoàn thành form đăng ký online theo hướng\ndẫn trong thông báo\nSinh viên nhận kết quả sơ loại hồ sơ trên QLĐT/eHUST\nSinh viên vượt qua vòng hồ sơ online sẽ nhận được\nemail hướng dẫn chuẩn bị hồ sơ bản cứng và nộp hồ sơ\ntheo hướng dẫn\nSinh viên nhận kết quả xét học bổng cuối cùng qua\nemail hoặc xem danh sách sinh viên nhận học bổng trên\nQLĐT/eHUST\nSinh viên nhận học bổng qua chuyển khoản ngân hàng\ntừ nhà trường hoặc doanh nghiệp/ quỹ học bổng tài trợ\nvà tham dự Lễ trao học bổng theo hướng dẫn của nhà\ntrường\nBan CTSV: ctsv@hust.edu.vn",
+    "context_ids": [
+      "hust-handbook-2026_p16_para_0"
+    ],
+    "context_chars": 1805,
+    "elapsed_ms": 1005.5257999993046,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q18",
+    "split": "test",
+    "question": "Văn phòng Trường Cơ khí (School of Mechanical Engineering) của ĐHBK Hà Nội nằm ở phòng nào?",
+    "strategy": "Hybrid (RRF)",
+    "top_k": 3,
+    "budget_chars": 2500,
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 30,
+        "evidence": "Văn phòng: C7-614M\nhttps://sme.hust.edu.vn\nsme@hust.edu.vn\n024 38696165"
+      }
+    ],
+    "results": [
+      {
+        "id": "hust-handbook-2026_p30_para_0",
+        "source_id": "hust-handbook-2026",
+        "source": "data\\So_tay_sinh_vien_2026_compressed.pdf",
+        "page": 30,
+        "text": "TRƯỜNG, KHOA ĐÀO TẠO\nPHẦN 4\n58\n59\nTRƯỜNG\nCƠ KHÍ\nSCHOOL OF MECHANICAL ENGINEERING\nCÁN BỘ\nGIẢNG VIÊN\nBAN CỐ VẤN\nHỌC TẬP\nKhoa Cơ khí Chế tạo máy:\nthanh.nguyenthibich@hust.edu.vn\nKhoa Cơ điện tử:\nhai.daochung@hust.edu.vn\nKhoa Cơ khí động lực:\nminh.vuhong@hust.edu.vn\nKhoa Năng lượng nhiệt:\nhien.lethu@hust.edu.vn\nVăn phòng: C7-614M\nhttps://sme.hust.edu.vn\nsme@hust.edu.vn\n024 38696165\nThông tin\nchi tiết\nxem tại đây\nBao gồm 4 khoa đào tạo 6 nhóm ngành\nvà 13 chương trình đào tạo.\nĐội ngũ cán bộ, giảng viên có 300 người.\nTrường Cơ khí, ĐHBK Hà Nội hiện có 4 Khoa đào tạo 06 nhóm ngành và 13 Chương trình đào\ntạo (CTĐT).",
+        "metadata": {
+          "section": "khoa_dao_tao",
+          "year": 2026,
+          "char_count": 615
+        },
+        "score": 0.03278688524590164,
+        "strategy": "hybrid_rrf",
+        "hit": true
+      },
+      {
+        "id": "hust-handbook-2026_p34_para_0",
+        "source_id": "hust-handbook-2026",
+        "source": "data\\So_tay_sinh_vien_2026_compressed.pdf",
+        "page": 34,
+        "text": "66\nKHOA\nVẬT LÝ KỸ THUẬT\nFACULTY OF ENGINEERING PHYSICS\nCÁN BỘ\nGIẢNG VIÊN\nBAN CỐ VẤN\nHỌC TẬP\nVăn phòng: C9-102\nTổng số cán bộ, giảng viên của Khoa là 74\nngười, trong đó có 2 Giáo sư, 18 Phó Giáo\nsư, 44 Tiến sĩ, 25 Thạc sĩ.\nC9 - 102\nhttp://sep.hust.edu.vn\nsep@hust.edu.vn\nsep@hust.edu.vn\n0906508538\n024 38693350\nThông tin\nchi tiết\nxem tại đây\nKhoa Vật lý kỹ thuật, Đại học Bách khoa Hà Nội, phụ tr ách 03 chương trình đào tạo: V ật lý kỹ\nthuật (PH1), Kỹ thuật hạt nhân (PH2) và Vật lý y khoa (PH3). Cơ cấu tổ chức của Khoa hiện nay\nbao gồm 1 Văn phòng, 1 Trung tâm thí nghiệm – thực hành V ật lý và 6 nhóm chuyên môn (Vật\nlý đại cương, Vật lý lý thuyết, Vật lý và Vật liệu điện tử, Vật lý tin học và ứng dụng, Quang học -\nquang điện tử, Kỹ thuật hạt nhân - Vật lý y khoa). Tầm nhìn của Khoa là trở thành đơn vị mạnh về\nđào tạo nguồn nhân lự c chất lượng cao; nghiên cứu khoa học và chuyển giao công nghệ trong\nlĩnh vực Vật lý kỹ thuật ở Việt Nam, từng bước tiệm cận với các nước có nền khoa học công nghệ\ntiên tiến trong khu vực.\n67\nTRƯỜNG\nKINH TẾ\nSCHOOL OF ECONOMICS AND MANAGEMENT\nCÁN BỘ\nGIẢNG VIÊN\nBAN CỐ VẤN\nHỌC TẬP\nCó 78 cán bộ giảng viên. Trong đó có 74\nthầy, cô giáo đều có trình độ trên đại học\nvới 8 GS/PGS và 29 Tiến sỹ.\nC9 - 302\nbinh.daothanh@hust.edu.vn\n024 38692304\nVăn phòng: C9-304\nhttps://sem.hust.edu.vn\nsem@hust.edu.vn\n024 38692304\nThông tin\nchi tiết\nxem tại đây\nKể từ khi mới thành lập (1965) cho tới nay, Trường Kinh tế (trước là Khoa Kinh tế và Quản lý, sau\nđổi thành Viện Kinh tế và Quản lý) thuộc Ðại Học Bách Khoa Hà Nội có trách nhiệm đào tạo cán\nbộ quản lý cho các doanh nghiệp, cho các ngành kinh tế khác nhau với các trình độ từ cử nhân,\nthạc sĩ, tới tiến sĩ với các loại hình đào tạo đa dạng.\nSau gần 60 năm xây dựng và phát triển, Trường đã đạt được một số thành tựu quan trọng trong\ncác lĩnh vực: đào tạo, nghiên cứu khoa học, chuyển giao công nghệ, phục vụ sản xuất kinh doanh\nvà hợp tác quốc tế. Nhờ vậy, Trường đã có một vị thế vững mạnh trong Đại Học Bách Khoa Hà\nNội, trong xã hội và quốc tế.",
+        "metadata": {
+          "section": "khoa_dao_tao",
+          "year": 2026,
+          "char_count": 2026
+        },
+        "score": 0.03149801587301587,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "hust-handbook-2026_p2_para_0",
+        "source_id": "hust-handbook-2026",
+        "source": "data\\So_tay_sinh_vien_2026_compressed.pdf",
+        "page": 2,
+        "text": "2 3\nNHỮNG ĐIỂM MỐC\nLỊCH SỬ QUAN TRỌNG\n1956\nNgày 6/3/1956, Bộ trưởng Bộ Giáo dục Nguyễn Văn Huyên đã\nký nghị định 147/NĐ về việc thành lập trường Đại học Chuyên\nnghiệp Bách khoa nay là trường ĐHBK Hà Nội.\nNgày 15/10/1956,Trường đã long trọng tổ chức “Lễ khai giảng\nkhóa I” cho 848 sinh viên vào 14 ngành của 04 liên khoa\nCơ-Điện, Mỏ-Luyện kim, Xây dựng, Hóa-Thực phẩm.\n1960\nNgày 7/11/1960 với sự giúp đỡ hết lòng của Chính phủ và nhân\ndân Liên Xô, nhân dịp kỷ niệm Cách mạng tháng Mười Nga vĩ\nđại, trường ĐHBK Hà Nội khởi công xây dựng khu trường mới\ntrên khuôn viên của Đông Dương học xá. Cuối năm 1965 khánh\nthành khu trường mới.\n1967\nChính phủ quyết định tách 2 khoa Xây dựng và Mỏ - Địa chất từ\nTrường Đại học Bách khoa Hà Nội để thành lập trường Đại học\nXây dựng và trường Đại học Mỏ - Địa chất.\n1975\nNăm 1975-1976, năm học đầu tiên được khai giảng trong niềm\nvui trọn vẹn của đất nước thống nhất. Theo yêu cầu của Đảng\nvà Chính phủ, trường ĐHBK Hà Nội san sẻ một bộ phận cán bộ\nquản lý và cán bộ giảng dạy có năng lực chuyên môn, nghiệp\nvụ, có bản lĩnh chính trị để tham gia tiếp nhận, cải tạo xây dựng\ncác trường đại học phía Nam sau giải phóng.\n2007\nNgày 1/2/2007, Bộ trưởng Bộ GD&ĐT đã ký quyết định số\n668/QĐ - BGDĐT phê duyệt Bản đề án “Quy hoạch tổng thể xây\ndựng và phát triển trường ĐHBK Hà Nội giai đoạn 2006 - 2030”.\nNăm 2007 Trường áp dụng phương thức đào tạo theo tín chỉ.\n2016 - 2019\nNgày 6/10/2016, Thủ tướng Chính phủ đã ký Quyết định số\n1924/QĐ-TTg phê duyệt đề án thí điểm thực hiện cơ chế tự chủ\ntoàn diện đối với Trường Đại học Bách Khoa Hà Nội. Năm 2019,\nBa nhóm ngành của Trường Đại học Bách Khoa Hà Nội lọt top\n550 ngành tốt nhất thế giới.\n2023\nTrường Đại học Bách Khoa Hà Nội chuyển thành Đại học Bách\nKhoa Hà Nội theo Quyết định số 1512/QĐ-TTg ngày 02/12/2022\ncủa Thủ tướng Chính phủ.\n2020\nTổ chức thành công Đại hội đại biểu Đảng bộ Trường Đại học\nBách Khoa Hà Nội; Trường có bộ máy lãnh đạo mới. 4 nhóm\nngành trong Top 351 - 500 thế giới (QS WUR 2020); Top 300\nthế giới các trường ĐH tốt nhất tại các nước có nền kinh tế mới\nnổi (THE); Top 33 thế giới về lĩnh vực Năng lượng sạch và chi phí\nhợp lý (THE).\n2024 - 2025\nĐạt quy mô đào tạo gần 44.000 người học với tổng thu vượt\nmốc 1.500 tỷ đồng, ghi nhận bước phát triển mạnh mẽ về nguồn\nlực và tự chủ đại học.\n10/2026\nTổ chức chuỗi hoạt động kỷ niệm 70 năm thành lập trường\n(1956–2026), khẳng định chặng đường bảy thập kỷ phát triển và\nđổi mới sáng tạo.\nMùng 1 Tết Mậu Tuất 1958, Bác về thăm\nTrường ĐHBK Hà Nội lần đầu tiên.\nNgày 17/6/1960, Bác về thăm lần thứ 2\ncùng Đoàn đại biểu chính phủ Anbani.\nNgày 11/3/1962, Bác đến thăm Trường lần\nthứ 3 cùng đoàn đại biểu Lào do nhà Vua\ndẫn dầu.\nTháng 8/2000, Trường\nđón nhận danh hiệu Anh\nhùng lao động trong\nthời kỳ đổi mới.\nNgày 15/10/2001, vinh\ndự được Nhà nước trao\ntặng Huân chương Hồ\nChí Minh.\nTháng 4/2006, đón\nnhận danh hiệu Anh\nhùng lực lượng vũ trang\nnhân dân.\nTháng 10/2016, đón\nnhận Huân chương Hồ\nChí Minh lần 2.\nCÁC DANH HIỆU\nCAO QUÝ\nCỦA NHÀ NƯỚC\nLẦN ĐƯỢC ĐÓN BÁC HỒ VỀ THĂM\n33%\nSố Liệu\nSINH VIÊN\nSinh viên đầu vào xuất sắc\n10\nSố lượng sinh viên chính quy\n~42.000\n~7.000\nSinh viên ĐHBK Hà Nội chiếm 1/3\ntrong số 1% sinh viên tài năng nhất\ntrên toàn quốc.\nSố lượng sinh viên tốt nghiệp\nCÁN BỘ CỰU SINH VIÊN\nTổng số lượng\n200.000+\n248\nCEO/Lãnh đạo\n37\nNhân vật chính trị quan trọng\nTổng số lượng cán bộ, viên chức\n1.748\nTRƯỜNG & KHOA ĐÀO TẠO\n03\nKHOA ĐÀO TẠO CƠ BẢN\n06\nVIỆN/TRUNG TÂM NGHIÊN CỨU\n12\nPHÒNG NGHIÊN CỨU TRỌNG ĐIỂM\n1.223 (70,1% có học vị TS)\nCán bộ giảng dạy",
+        "metadata": {
+          "section": "lich_su_thong_diep",
+          "year": 2026,
+          "char_count": 3503
+        },
+        "score": 0.030621785881252923,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      }
+    ],
+    "context": "[hust-handbook-2026_p30_para_0 | data\\So_tay_sinh_vien_2026_compressed.pdf | page 30]\nTRƯỜNG, KHOA ĐÀO TẠO\nPHẦN 4\n58\n59\nTRƯỜNG\nCƠ KHÍ\nSCHOOL OF MECHANICAL ENGINEERING\nCÁN BỘ\nGIẢNG VIÊN\nBAN CỐ VẤN\nHỌC TẬP\nKhoa Cơ khí Chế tạo máy:\nthanh.nguyenthibich@hust.edu.vn\nKhoa Cơ điện tử:\nhai.daochung@hust.edu.vn\nKhoa Cơ khí động lực:\nminh.vuhong@hust.edu.vn\nKhoa Năng lượng nhiệt:\nhien.lethu@hust.edu.vn\nVăn phòng: C7-614M\nhttps://sme.hust.edu.vn\nsme@hust.edu.vn\n024 38696165\nThông tin\nchi tiết\nxem tại đây\nBao gồm 4 khoa đào tạo 6 nhóm ngành\nvà 13 chương trình đào tạo.\nĐội ngũ cán bộ, giảng viên có 300 người.\nTrường Cơ khí, ĐHBK Hà Nội hiện có 4 Khoa đào tạo 06 nhóm ngành và 13 Chương trình đào\ntạo (CTĐT).",
+    "context_ids": [
+      "hust-handbook-2026_p30_para_0"
+    ],
+    "context_chars": 701,
+    "elapsed_ms": 970.397300001423,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q19",
+    "split": "test",
+    "question": "Trong phần quy chế và quy định, sinh viên có hành vi gian lận thi cử như thế nào thì bị xem xét xử lý kỷ luật?",
+    "strategy": "Hybrid (RRF)",
+    "top_k": 3,
+    "budget_chars": 2500,
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 6,
+        "evidence": "Gian lận trong học tập, kiểm tra, thi cử như quay cóp, sử dụng\ntài liệu"
+      }
+    ],
+    "results": [
+      {
+        "id": "hust-handbook-2026_p6_para_0",
+        "source_id": "hust-handbook-2026",
+        "source": "data\\So_tay_sinh_vien_2026_compressed.pdf",
+        "page": 6,
+        "text": "10 11\n1\nXúc phạm danh dự, nhân phẩm, xâm phạm thân thể nhà giáo, cán\nbộ, người lao động, người học của Đại học và người khác.\nGian lận trong học tập, kiểm tra, thi cử như quay cóp, sử dụng\ntài liệu hoặc thiết bị không được phép, sử dụng trái phép công\ncụ, phần mềm, Internet để làm bài; thi hộ, nhờ thi hộ, làm hoặc\nnhờ làm bài tập, tiểu luận, đồ án, khóa luận.\nLàm xao nhãng, ảnh hưởng hoặc gián đoạn quá trình học tập của\nlớp học.\nHút thuốc lá, thuốc lá điện tử; uống rượu, bia trong khuôn viên\nĐại học hoặc đến trường trong tình trạng say rượu, bia.\nThực hiện các hành vi nguy hiểm cho bản thân và người khác\ntrong khuôn viên Đại học, như leo trèo cây, lan can, điều khiển\nphương tiện vượt quá tốc độ quy định hoặc các hành vi nguy\nhiểm khác.\nTrộm cắp, phá hoại tài sản của Đại học, cán bộ, người\nlao động, người học và các cá nhân khác.\n2\n3\n4\n5\n6\nXem thêm tại đây:\nNHỮNG ĐIỀU SINH VIÊN\nKHÔNG ĐƯỢC LÀM\nLIÊN QUAN ĐẾN CÔNG TÁC ĐÀO TẠO:\nLIÊN QUAN ĐẾN CÔNG TÁC SINH VIÊN:\nQuy chế đào tạo chính quy của nhà trường Quy định về chuẩn trình độ và chuẩn\nngoại ngữ đầu ra các khóa, các chương\ntrình đào tạo\nQuy định về học phí các khóa, các chương\ntrình đào tạo\nThông tin về chương trình đào tạo\nThông tin về thời khóa biểu, lịch thi Thông tin về kết quả học tập\nĐăng ký học tập Thông tin về học phí, công nợ\nThông tin về đồ án tốt nghiệp và xét tốt\nnghiệp\nCác biểu mẫu về học tập\nHướng dẫn gửi câu hỏi thắc mắc đến\nPhòng Đào tạo\nĐăng ký và hỏi đáp các thủ tục hành chính Hướng dẫn thủ tục giải quyết chế độ\nchính sáchQuy định về việc xét cấp học bổng của\nnhà trường (Khuyến khích học tập, Trần\nĐại Nghĩa, Tài trợ, Trao đổi sinh viên, Gắn\nkết quê hương, STEM)\nThông tin về các hoạt động sinh hoạt công\ndân\nThông tin về bảo hiểm y tế dành cho sinh\nviên\nThông tin về học bổng tài trợ dành cho\nsinh viên\nThông tin về các hoạt động ngoại khóa,\nclb sinh viên\nThông tin về các hoạt động hướng nghiệp\nvà tuyển dụng cho sinh viên\nThông tin về các hoạt động hỗ trợ học tập,\ntư vấn tâm lý sinh viên\nĐánh giá điểm rèn luyện sinh viên\nĐăng ký dịch vụ sinh viên (KTX, vé xe,…)\nSinh viên tra cứu trên Quản lý Đào tạo (QLDT)/eHUST, cổng thông tin sinh viên, website của Trường,\nKhoa đào tạo, liên hệ với Ban Đào tạo, văn phòng Trường, Khoa đào tạo hoặc liên hệ với cố vấn học\ntập và quản lý lớp sinh viên.\nSinh viên tra cứu trên Quản lý Đào tạo (QLDT)/eHUST, cổng thông tin ĐHBKHN, cổng thông tin công\ntác sinh viên, liên hệ với Ban Công tác sinh viên, văn phòng Trường, Khoa chuyên môn hoặc liên hệ với\ncố vấn học tập và quản lý lớp sinh viên.\nCổng thông tin\nquản lý đào tạo\nSổ tay\nsinh viên online\nQUY CHẾ, THỦ TỤC, THÔNG\nTIN DÀNH CHO SINH VIÊN",
+        "metadata": {
+          "section": "quy_che_quy_dinh",
+          "year": 2026,
+          "char_count": 2624
+        },
+        "score": 0.032266458495966696,
+        "strategy": "hybrid_rrf",
+        "hit": true
+      },
+      {
+        "id": "hust-handbook-2026_p5_para_0",
+        "source_id": "hust-handbook-2026",
+        "source": "data\\So_tay_sinh_vien_2026_compressed.pdf",
+        "page": 5,
+        "text": "8 9\n1\nQUY ĐỊNH\nSINH VIÊN CẦN LƯU Ý\nSinh viên đến trường phải mang theo thẻ sinh viên, trang phục\ngọn gàng phù hợp với văn hóa Việt Nam và sự nghiêm túc của\ntrường đại học.\nTrường hợp đi xe đạp, xe máy, ô tô vào trường phải lưu ý giảm tốc\nđộ, thận trọng quan sát xung quanh và gửi xe đúng nơi quy định.\nXe taxi không được vào trường.\nKhông được tự ý mang tài sản của trường ra ngoài khuôn viên\ntrường.\nSau 18h00 hàng ngày, không được tự ý tụ tập ở các khu vực công\ncộng thuộc khuôn viên của trường. Mọi hoạt động văn hoá, văn\nnghệ, thể dục, thể thao tổ chức trong trường phải được sự đồng\ný cho phép bằng văn bản của Nhà trường.\nKhông tự ý tổ chức các hoạt động quảng cáo, dịch vụ hoặc tổ\nchức đánh bạc trong khuôn viên trường dưới mọi hình thức.\nSinh viên vi phạm sẽ bị kỷ luật từ cảnh cáo đến buộc thôi học.\n2\n3\n4\n5\n6\n1\nQUY TẮC\nGIAO TIẾP  ĐỐI VỚI SINH VIÊN,\nHỌC VIÊN, NGHIÊN CỨU SINH\nKính trọng, lễ phép, tôn sự trọng đạo với thầy cô; tôn trọng, hợp\ntác, lịch sự, nhã nhặn với cán bộ, nhân viên Trường.\nĐoàn kết, tương trợ, bình đẳng và tôn trọng sự khác biệt\nvới bạn bè.\nThân thiện, lịch sự, tận tình hướng dẫn với khách của Trường.\nTrang phục phù hợp với môi trường sư phạm; đeo thẻ sinh\nviên/học viên khi đến Trường.\nỨng xử chuẩn mực, văn minh trên môi trường mạng.\nCó ý thức, trách nhiệm bảo vệ danh tiếng\nvà tài sản của Trường.\n2\n3\n4\n5\n6\nXem thêm tại đây:",
+        "metadata": {
+          "section": "quy_che_quy_dinh",
+          "year": 2026,
+          "char_count": 1361
+        },
+        "score": 0.03177805800756621,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "hust-handbook-2026_p10_para_0",
+        "source_id": "hust-handbook-2026",
+        "source": "data\\So_tay_sinh_vien_2026_compressed.pdf",
+        "page": 10,
+        "text": "18 19\nĐIỂM RÈN LUYỆN SINH VIÊN\nCÁC MẶT ĐÁNH GIÁ\nCÁCH THỨC VÀ QUY TRÌNH\nPHÂN LOẠI KẾT QUẢ RÈN LUYỆN\nSỬ DỤNG KẾT QUẢ ĐÁNH GIÁ\nTrách nhiệm chấp hành pháp luật và nội\nquy, quy chế của Đại học;\nTrách nhiệm công dân trong quan hệ\ncộng đồng;\nTrách nhiệm, tinh thần và thái độ trong\nhọc tập;\nTrách nhiệm và kết quả tham gia công\ntác cán bộ lớp, công tác đoàn thể, các\ntổ chức khác của Đại học hoặc có thành\ntích xuất sắc trong học tập, rèn luyện\nđược cơ quan có thẩm quyền khen\nthưởng.\nTrách nhiệm tham gia các hoạt động\nchính trị - xã hội, văn hóa, văn nghệ, thể\nthao, phòng chống tội phạm và tệ nạn xã\nhội;\n1. Kết quả đánh giá rèn luyện từng học kỳ, năm học và toàn khóa học của sinh viên được lưu trong\nhồ sơ quản lý sinh viên.\n2. Kết quả đánh giá rèn luyện được sử dụng trong việc xét duyệt học bổng, xét khen thưởng, xét\ntham gia các hoạt động giao lưu, trao đổi sinh viên quốc tế.\n3. Kết quả đánh giá rèn luyện toàn khóa học của sinh viên được cấp trong hồ sơ tốt nghiệp của\nsinh viên.\n4. Sinh viên không thực hiện tự đánh giá kết quả rèn luyện, không cung cấp minh chứng và không\ncó lý do chính đáng sau khi đã được thông báo, nhắc nhở thì được xem xét xếp loại rèn luyện ở\nmức yếu trong học kỳ tương ứng.\nKết quả rèn luyện được phân loại như sau:\n- Từ 90 điểm đến 100 điểm: loại xuất sắc;\n- Từ 80 điểm đến 89 điểm: loại tốt;\n- Từ 70 điểm đến 79 điểm: loại khá;\n1. Công bố hoạt động: Các đơn vị công khai\nkế hoạch hoạt động trên Cổng thông tin sinh\nviên hoặc các kênh thông tin chính thống để\nsinh viên đăng ký tham gia.\n2. Tham gia và cung cấp minh chứng: Sinh\nviên đăng ký hoạt động theo nguyện vọng,\ncung cấp minh chứng tham gia trên hệ thống\nđánh giá điểm rèn luyện và được cán bộ phụ\ntrách xác nhận.\n3. Tự đánh giá: Sinh viên thực hiện tự đánh\ngiá kết quả rèn luyện theo kế hoạch của Đại\nhọc.\n4. Đánh giá: Cán bộ quản lý sinh viên căn cứ\nvào minh chứng tham gia hoạt động và kết\nquả tự đánh giá để thực hiện đánh giá theo\nquy định.\n5. Xem xét, phê duyệt: Đơn vị quản ngành\nxem xét kết quả, bảo đảm tính khách quan,\ncông bằng, công khai và đúng quy định trước\nkhi phê duyệt.\n6. Công bố và kiến nghị: Kết quả dự kiến\nđược công bố ít nhất 05 ngày làm việc trước\nkhi chính thức công nhận. Nếu không đồng\ný với kết quả, sinh viên có quyền kiến nghị\nđến đơn vị quản ngành để được xem xét, giải\nquyết theo quy định.\nĐIỂM RÈN LUYỆN SINH VIÊN\nĐỂ CÓ KẾT QUẢ RÈN LUYỆN TRÊN TRUNG BÌNH\nVới mục trách nhiệm, tinh thần và thái độ trong học tập bạn dễ dàng đạt được 12 điểm với:\n+ 3 điểm nếu bạn có kế hoạch học tập và rèn luyện phù hợp được thầy cô ghi nhận\n+ 3 điểm nếu bạn tham gia các buổi tư vấn xây dựng kế hoạch, động lực học tập phù hợp\n+ 3 điểm nếu bạn tham gia hoạt động hướng nghiệp, tìm kiếm thông tin việc làm\n+ 3 điểm nếu bạn chủ động xây dựng, hoàn thiện và cập nhật Portfolio cá nhân theo từng\nhọc kỳ.\nVới mục tham gia hoạt động chính trị - xã hội, văn hoá, văn nghệ, thể thao, phòng chống tội\nphạm, tệ nạn xã hội, bạn dễ dàng có được 16 điểm với:\n+ 3 điểm nếu bạn tham gia cổ vũ các hoạt động phong trào văn hóa, thể thao\n+ 4 điểm nếu bạn tham gia các hoạt động thể dục nâng cao sức khỏe được tổ chức bởi\ncác đơn vị hợp pháp\n+ 3 điểm nếu bạn tham gia hoạt động khảo sát thông tin do nhà trường thực hiện\n+ 3 điểm nếu bạn tham gia phong trào “cốc trà đá vì cộng đồng”, “tuổi trẻ Bách khoa Nhân\nái”\n+ 3 điểm nếu bạn tham gia các hoạt động phổ biến, tìm hiểu bản sắc văn hóa dân tộc, văn\nhóa địa phương, văn hóa trường học,…\nVới mục Chấp hành pháp luật và nội quy, quy chế của nhà trường, bạn dễ dàng đạt được 22\nđiểm với:\n+ 6 điểm, nếu bạn hiểu biết và chấp hành pháp luật của Nhà nước, quy định của nhà\ntrường và nơi cư trú\n+ 4 điểm, nếu bạn khai báo thông tin liên lạc và nơi cư trú theo yêu cầu của Đại học\n+ 6 điểm, nếu bạn tham gia Họp lớp thường kỳ do Trường/Khoa tổ chức\n+ 6 điểm, nếu bạn nắm vững quy định và quy chế của nhà trường\nĐể đạt được >50 điểm rèn luyện là không khó đối các bạn sinh viên, cụ thể là:\nVới mục điểm ý thức công dân trong quan hệ cộng đồng:\n+ 3 điểm nếu bạn có hành động tích cực trên không gian\nmạng, phù hợp với chủ trương của Nhà trường và đường\nlối, chính sách của Nhà nước.\n+ 3 điểm nếu bạn tham gia tuyên truyền đường lối của\nĐảng, pháp luật của Nhà nước, quy định của nơi cư trú\nhoặc quy chế của Nhà trường được các cấp có thẩm\nquyền xác nhận.\nMột học kỳ các đơn vị trong Nhà trường tổ chức trung\nbình 300 hoạt động khác nhau. Do đó, bạn hoàn toàn có\ncơ hội đạt được điều đó thông qua việc tham gia các hoạt\nđộng phù hợp với bản thân mình.\nChi tiết tại đây\n- Từ 50 điểm đến 69 điểm: loại trung\nbình;\n- Dưới 50 điểm: loại yếu.",
+        "metadata": {
+          "section": "quy_che_quy_dinh",
+          "year": 2026,
+          "char_count": 4567
+        },
+        "score": 0.031754032258064516,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      }
+    ],
+    "context": "[hust-handbook-2026_p5_para_0 | data\\So_tay_sinh_vien_2026_compressed.pdf | page 5]\n8 9\n1\nQUY ĐỊNH\nSINH VIÊN CẦN LƯU Ý\nSinh viên đến trường phải mang theo thẻ sinh viên, trang phục\ngọn gàng phù hợp với văn hóa Việt Nam và sự nghiêm túc của\ntrường đại học.\nTrường hợp đi xe đạp, xe máy, ô tô vào trường phải lưu ý giảm tốc\nđộ, thận trọng quan sát xung quanh và gửi xe đúng nơi quy định.\nXe taxi không được vào trường.\nKhông được tự ý mang tài sản của trường ra ngoài khuôn viên\ntrường.\nSau 18h00 hàng ngày, không được tự ý tụ tập ở các khu vực công\ncộng thuộc khuôn viên của trường. Mọi hoạt động văn hoá, văn\nnghệ, thể dục, thể thao tổ chức trong trường phải được sự đồng\ný cho phép bằng văn bản của Nhà trường.\nKhông tự ý tổ chức các hoạt động quảng cáo, dịch vụ hoặc tổ\nchức đánh bạc trong khuôn viên trường dưới mọi hình thức.\nSinh viên vi phạm sẽ bị kỷ luật từ cảnh cáo đến buộc thôi học.\n2\n3\n4\n5\n6\n1\nQUY TẮC\nGIAO TIẾP  ĐỐI VỚI SINH VIÊN,\nHỌC VIÊN, NGHIÊN CỨU SINH\nKính trọng, lễ phép, tôn sự trọng đạo với thầy cô; tôn trọng, hợp\ntác, lịch sự, nhã nhặn với cán bộ, nhân viên Trường.\nĐoàn kết, tương trợ, bình đẳng và tôn trọng sự khác biệt\nvới bạn bè.\nThân thiện, lịch sự, tận tình hướng dẫn với khách của Trường.\nTrang phục phù hợp với môi trường sư phạm; đeo thẻ sinh\nviên/học viên khi đến Trường.\nỨng xử chuẩn mực, văn minh trên môi trường mạng.\nCó ý thức, trách nhiệm bảo vệ danh tiếng\nvà tài sản của Trường.\n2\n3\n4\n5\n6\nXem thêm tại đây:",
+    "context_ids": [
+      "hust-handbook-2026_p5_para_0"
+    ],
+    "context_chars": 1445,
+    "elapsed_ms": 887.3877999994875,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": false
+  },
+  {
+    "query_id": "q20",
+    "split": "test",
+    "question": "Năm học 2026 - 2027 đánh dấu mốc bao nhiêu năm xây dựng và phát triển của trường Đại học Bách khoa Hà Nội?",
+    "strategy": "Hybrid (RRF)",
+    "top_k": 3,
+    "budget_chars": 2500,
+    "gold": [
+      {
+        "source_id": "hust-handbook-2026",
+        "page": 3,
+        "evidence": "Đại học Bách khoa Hà Nội đang\nbước vào dấu mốc 70 năm xây dựng\nvà phát triển (1956 - 2026)"
+      }
+    ],
+    "results": [
+      {
+        "id": "hust-handbook-2026_p3_para_0",
+        "source_id": "hust-handbook-2026",
+        "source": "data\\So_tay_sinh_vien_2026_compressed.pdf",
+        "page": 3,
+        "text": "4 5\nTHÔNG ĐIỆP\nNĂM HỌC 2026 - 2027\nĐại học Bách khoa Hà Nội đang\nbước vào dấu mốc 70 năm xây dựng\nvà phát triển (1956 - 2026) - một\nhành trình được hun đúc bằng trí\ntuệ, bản lĩnh và khát vọng cống hiến\ncủa nhiều thế hệ thầy cô giáo, cán\nbộ, sinh viên và cựu sinh viên. Từ\nnhững ngày đầu đặt nền móng cho\nnền giáo dục kỹ thuật của đất nước\nđến hôm nay, Đại học Bách khoa Hà\nNội luôn giữ vai trò tiên phong trong\nđào tạo nguồn nhân lực chất lượng\ncao, nghiên cứu khoa học, phát\ntriển công nghệ và đổi mới sáng tạo,\nđóng góp quan trọng vào sự nghiệp\nxây dựng và bảo vệ Tổ quốc.\nLịch sử của Đại học Bách khoa Hà\nNội chưa bao giờ được tạo nên bởi\nsự hài lòng với những thành quả đã\nđạt được. Mỗi giai đoạn phát triển\ncủa Nhà trường đều bắt đầu từ khát\nvọng vươn lên, từ tinh thần tiên\nphong và dũng cảm đổi mới. Trách\nnhiệm của thế hệ chúng ta là tiếp\nnối “di sản 70 năm” để kiến tạo\nmột Đại học Bách khoa Hà Nội của\ntương lai - hiện đại hơn, sáng tạo\nhơn, hội nhập sâu rộng hơn và có\nsức ảnh hưởng lớn hơn đối với Việt\nNam và thế giới.\nChúng ta đang sống trong một thời\nđại mà khoa học, công nghệ và đổi\nmới sáng tạo trở thành động lực\nquyết định năng lực cạnh tranh của\nmỗi quốc gia. Công nghệ dữ liệu và\ntrí tuệ nhân tạo, bán dẫn, tự động\nhóa và rô bốt, vật liệu mới, năng\nlượng xanh, công nghệ sinh học và\ncác lĩnh vực công nghệ nền tảng\nđang làm thay đổi sâu sắc phương\nthức sản xuất, quản trị và đời sống\nxã hội. Trong bối cảnh đó, vai trò của\nđại học cũng đang thay đổi mạnh\nmẽ.\nĐại học không chỉ là nơi truyền thụ\ntri thức mà còn là nơi kiến tạo tri\nthức mới, phát triển công nghệ mới,\nnuôi dưỡng những con người có\nkhả năng dẫn dắt sự thay đổi và giải\nquyết những vấn đề lớn của quốc\ngia và nhân loại. Giá trị của một\nđại học không chỉ được đo bằng số\nlượng sinh viên hay vị trí trên các bảng xếp hạng, mà còn được khẳng định\nbằng những đóng góp thiết thực đối với sự phát triển của đất nước và tác\nđộng tích cực tới xã hội.\nĐó cũng chính là sứ mệnh mà Đại học Bách khoa Hà Nội lựa chọn và theo\nđuổi.\nGS. Lê Anh Tuấn\nGiám đốc ĐHBK Hà Nội\nVỮNG BƯỚC\nTRONG KỶ NGUYÊN MỚI\nVỚI HÀNH TRANG 70 NĂM TỰ HÀO\n“ “",
+        "metadata": {
+          "section": "lich_su_thong_diep",
+          "year": 2026,
+          "char_count": 2104
+        },
+        "score": 0.03278688524590164,
+        "strategy": "hybrid_rrf",
+        "hit": true
+      },
+      {
+        "id": "hust-handbook-2026_p2_para_0",
+        "source_id": "hust-handbook-2026",
+        "source": "data\\So_tay_sinh_vien_2026_compressed.pdf",
+        "page": 2,
+        "text": "2 3\nNHỮNG ĐIỂM MỐC\nLỊCH SỬ QUAN TRỌNG\n1956\nNgày 6/3/1956, Bộ trưởng Bộ Giáo dục Nguyễn Văn Huyên đã\nký nghị định 147/NĐ về việc thành lập trường Đại học Chuyên\nnghiệp Bách khoa nay là trường ĐHBK Hà Nội.\nNgày 15/10/1956,Trường đã long trọng tổ chức “Lễ khai giảng\nkhóa I” cho 848 sinh viên vào 14 ngành của 04 liên khoa\nCơ-Điện, Mỏ-Luyện kim, Xây dựng, Hóa-Thực phẩm.\n1960\nNgày 7/11/1960 với sự giúp đỡ hết lòng của Chính phủ và nhân\ndân Liên Xô, nhân dịp kỷ niệm Cách mạng tháng Mười Nga vĩ\nđại, trường ĐHBK Hà Nội khởi công xây dựng khu trường mới\ntrên khuôn viên của Đông Dương học xá. Cuối năm 1965 khánh\nthành khu trường mới.\n1967\nChính phủ quyết định tách 2 khoa Xây dựng và Mỏ - Địa chất từ\nTrường Đại học Bách khoa Hà Nội để thành lập trường Đại học\nXây dựng và trường Đại học Mỏ - Địa chất.\n1975\nNăm 1975-1976, năm học đầu tiên được khai giảng trong niềm\nvui trọn vẹn của đất nước thống nhất. Theo yêu cầu của Đảng\nvà Chính phủ, trường ĐHBK Hà Nội san sẻ một bộ phận cán bộ\nquản lý và cán bộ giảng dạy có năng lực chuyên môn, nghiệp\nvụ, có bản lĩnh chính trị để tham gia tiếp nhận, cải tạo xây dựng\ncác trường đại học phía Nam sau giải phóng.\n2007\nNgày 1/2/2007, Bộ trưởng Bộ GD&ĐT đã ký quyết định số\n668/QĐ - BGDĐT phê duyệt Bản đề án “Quy hoạch tổng thể xây\ndựng và phát triển trường ĐHBK Hà Nội giai đoạn 2006 - 2030”.\nNăm 2007 Trường áp dụng phương thức đào tạo theo tín chỉ.\n2016 - 2019\nNgày 6/10/2016, Thủ tướng Chính phủ đã ký Quyết định số\n1924/QĐ-TTg phê duyệt đề án thí điểm thực hiện cơ chế tự chủ\ntoàn diện đối với Trường Đại học Bách Khoa Hà Nội. Năm 2019,\nBa nhóm ngành của Trường Đại học Bách Khoa Hà Nội lọt top\n550 ngành tốt nhất thế giới.\n2023\nTrường Đại học Bách Khoa Hà Nội chuyển thành Đại học Bách\nKhoa Hà Nội theo Quyết định số 1512/QĐ-TTg ngày 02/12/2022\ncủa Thủ tướng Chính phủ.\n2020\nTổ chức thành công Đại hội đại biểu Đảng bộ Trường Đại học\nBách Khoa Hà Nội; Trường có bộ máy lãnh đạo mới. 4 nhóm\nngành trong Top 351 - 500 thế giới (QS WUR 2020); Top 300\nthế giới các trường ĐH tốt nhất tại các nước có nền kinh tế mới\nnổi (THE); Top 33 thế giới về lĩnh vực Năng lượng sạch và chi phí\nhợp lý (THE).\n2024 - 2025\nĐạt quy mô đào tạo gần 44.000 người học với tổng thu vượt\nmốc 1.500 tỷ đồng, ghi nhận bước phát triển mạnh mẽ về nguồn\nlực và tự chủ đại học.\n10/2026\nTổ chức chuỗi hoạt động kỷ niệm 70 năm thành lập trường\n(1956–2026), khẳng định chặng đường bảy thập kỷ phát triển và\nđổi mới sáng tạo.\nMùng 1 Tết Mậu Tuất 1958, Bác về thăm\nTrường ĐHBK Hà Nội lần đầu tiên.\nNgày 17/6/1960, Bác về thăm lần thứ 2\ncùng Đoàn đại biểu chính phủ Anbani.\nNgày 11/3/1962, Bác đến thăm Trường lần\nthứ 3 cùng đoàn đại biểu Lào do nhà Vua\ndẫn dầu.\nTháng 8/2000, Trường\nđón nhận danh hiệu Anh\nhùng lao động trong\nthời kỳ đổi mới.\nNgày 15/10/2001, vinh\ndự được Nhà nước trao\ntặng Huân chương Hồ\nChí Minh.\nTháng 4/2006, đón\nnhận danh hiệu Anh\nhùng lực lượng vũ trang\nnhân dân.\nTháng 10/2016, đón\nnhận Huân chương Hồ\nChí Minh lần 2.\nCÁC DANH HIỆU\nCAO QUÝ\nCỦA NHÀ NƯỚC\nLẦN ĐƯỢC ĐÓN BÁC HỒ VỀ THĂM\n33%\nSố Liệu\nSINH VIÊN\nSinh viên đầu vào xuất sắc\n10\nSố lượng sinh viên chính quy\n~42.000\n~7.000\nSinh viên ĐHBK Hà Nội chiếm 1/3\ntrong số 1% sinh viên tài năng nhất\ntrên toàn quốc.\nSố lượng sinh viên tốt nghiệp\nCÁN BỘ CỰU SINH VIÊN\nTổng số lượng\n200.000+\n248\nCEO/Lãnh đạo\n37\nNhân vật chính trị quan trọng\nTổng số lượng cán bộ, viên chức\n1.748\nTRƯỜNG & KHOA ĐÀO TẠO\n03\nKHOA ĐÀO TẠO CƠ BẢN\n06\nVIỆN/TRUNG TÂM NGHIÊN CỨU\n12\nPHÒNG NGHIÊN CỨU TRỌNG ĐIỂM\n1.223 (70,1% có học vị TS)\nCán bộ giảng dạy",
+        "metadata": {
+          "section": "lich_su_thong_diep",
+          "year": 2026,
+          "char_count": 3503
+        },
+        "score": 0.03225806451612903,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "hust-handbook-2026_p34_para_0",
+        "source_id": "hust-handbook-2026",
+        "source": "data\\So_tay_sinh_vien_2026_compressed.pdf",
+        "page": 34,
+        "text": "66\nKHOA\nVẬT LÝ KỸ THUẬT\nFACULTY OF ENGINEERING PHYSICS\nCÁN BỘ\nGIẢNG VIÊN\nBAN CỐ VẤN\nHỌC TẬP\nVăn phòng: C9-102\nTổng số cán bộ, giảng viên của Khoa là 74\nngười, trong đó có 2 Giáo sư, 18 Phó Giáo\nsư, 44 Tiến sĩ, 25 Thạc sĩ.\nC9 - 102\nhttp://sep.hust.edu.vn\nsep@hust.edu.vn\nsep@hust.edu.vn\n0906508538\n024 38693350\nThông tin\nchi tiết\nxem tại đây\nKhoa Vật lý kỹ thuật, Đại học Bách khoa Hà Nội, phụ tr ách 03 chương trình đào tạo: V ật lý kỹ\nthuật (PH1), Kỹ thuật hạt nhân (PH2) và Vật lý y khoa (PH3). Cơ cấu tổ chức của Khoa hiện nay\nbao gồm 1 Văn phòng, 1 Trung tâm thí nghiệm – thực hành V ật lý và 6 nhóm chuyên môn (Vật\nlý đại cương, Vật lý lý thuyết, Vật lý và Vật liệu điện tử, Vật lý tin học và ứng dụng, Quang học -\nquang điện tử, Kỹ thuật hạt nhân - Vật lý y khoa). Tầm nhìn của Khoa là trở thành đơn vị mạnh về\nđào tạo nguồn nhân lự c chất lượng cao; nghiên cứu khoa học và chuyển giao công nghệ trong\nlĩnh vực Vật lý kỹ thuật ở Việt Nam, từng bước tiệm cận với các nước có nền khoa học công nghệ\ntiên tiến trong khu vực.\n67\nTRƯỜNG\nKINH TẾ\nSCHOOL OF ECONOMICS AND MANAGEMENT\nCÁN BỘ\nGIẢNG VIÊN\nBAN CỐ VẤN\nHỌC TẬP\nCó 78 cán bộ giảng viên. Trong đó có 74\nthầy, cô giáo đều có trình độ trên đại học\nvới 8 GS/PGS và 29 Tiến sỹ.\nC9 - 302\nbinh.daothanh@hust.edu.vn\n024 38692304\nVăn phòng: C9-304\nhttps://sem.hust.edu.vn\nsem@hust.edu.vn\n024 38692304\nThông tin\nchi tiết\nxem tại đây\nKể từ khi mới thành lập (1965) cho tới nay, Trường Kinh tế (trước là Khoa Kinh tế và Quản lý, sau\nđổi thành Viện Kinh tế và Quản lý) thuộc Ðại Học Bách Khoa Hà Nội có trách nhiệm đào tạo cán\nbộ quản lý cho các doanh nghiệp, cho các ngành kinh tế khác nhau với các trình độ từ cử nhân,\nthạc sĩ, tới tiến sĩ với các loại hình đào tạo đa dạng.\nSau gần 60 năm xây dựng và phát triển, Trường đã đạt được một số thành tựu quan trọng trong\ncác lĩnh vực: đào tạo, nghiên cứu khoa học, chuyển giao công nghệ, phục vụ sản xuất kinh doanh\nvà hợp tác quốc tế. Nhờ vậy, Trường đã có một vị thế vững mạnh trong Đại Học Bách Khoa Hà\nNội, trong xã hội và quốc tế.",
+        "metadata": {
+          "section": "khoa_dao_tao",
+          "year": 2026,
+          "char_count": 2026
+        },
+        "score": 0.030798389007344232,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      }
+    ],
+    "context": "[hust-handbook-2026_p3_para_0 | data\\So_tay_sinh_vien_2026_compressed.pdf | page 3]\n4 5\nTHÔNG ĐIỆP\nNĂM HỌC 2026 - 2027\nĐại học Bách khoa Hà Nội đang\nbước vào dấu mốc 70 năm xây dựng\nvà phát triển (1956 - 2026) - một\nhành trình được hun đúc bằng trí\ntuệ, bản lĩnh và khát vọng cống hiến\ncủa nhiều thế hệ thầy cô giáo, cán\nbộ, sinh viên và cựu sinh viên. Từ\nnhững ngày đầu đặt nền móng cho\nnền giáo dục kỹ thuật của đất nước\nđến hôm nay, Đại học Bách khoa Hà\nNội luôn giữ vai trò tiên phong trong\nđào tạo nguồn nhân lực chất lượng\ncao, nghiên cứu khoa học, phát\ntriển công nghệ và đổi mới sáng tạo,\nđóng góp quan trọng vào sự nghiệp\nxây dựng và bảo vệ Tổ quốc.\nLịch sử của Đại học Bách khoa Hà\nNội chưa bao giờ được tạo nên bởi\nsự hài lòng với những thành quả đã\nđạt được. Mỗi giai đoạn phát triển\ncủa Nhà trường đều bắt đầu từ khát\nvọng vươn lên, từ tinh thần tiên\nphong và dũng cảm đổi mới. Trách\nnhiệm của thế hệ chúng ta là tiếp\nnối “di sản 70 năm” để kiến tạo\nmột Đại học Bách khoa Hà Nội của\ntương lai - hiện đại hơn, sáng tạo\nhơn, hội nhập sâu rộng hơn và có\nsức ảnh hưởng lớn hơn đối với Việt\nNam và thế giới.\nChúng ta đang sống trong một thời\nđại mà khoa học, công nghệ và đổi\nmới sáng tạo trở thành động lực\nquyết định năng lực cạnh tranh của\nmỗi quốc gia. Công nghệ dữ liệu và\ntrí tuệ nhân tạo, bán dẫn, tự động\nhóa và rô bốt, vật liệu mới, năng\nlượng xanh, công nghệ sinh học và\ncác lĩnh vực công nghệ nền tảng\nđang làm thay đổi sâu sắc phương\nthức sản xuất, quản trị và đời sống\nxã hội. Trong bối cảnh đó, vai trò của\nđại học cũng đang thay đổi mạnh\nmẽ.\nĐại học không chỉ là nơi truyền thụ\ntri thức mà còn là nơi kiến tạo tri\nthức mới, phát triển công nghệ mới,\nnuôi dưỡng những con người có\nkhả năng dẫn dắt sự thay đổi và giải\nquyết những vấn đề lớn của quốc\ngia và nhân loại. Giá trị của một\nđại học không chỉ được đo bằng số\nlượng sinh viên hay vị trí trên các bảng xếp hạng, mà còn được khẳng định\nbằng những đóng góp thiết thực đối với sự phát triển của đất nước và tác\nđộng tích cực tới xã hội.\nĐó cũng chính là sứ mệnh mà Đại học Bách khoa Hà Nội lựa chọn và theo\nđuổi.\nGS. Lê Anh Tuấn\nGiám đốc ĐHBK Hà Nội\nVỮNG BƯỚC\nTRONG KỶ NGUYÊN MỚI\nVỚI HÀNH TRANG 70 NĂM TỰ HÀO\n“ “",
+    "context_ids": [
+      "hust-handbook-2026_p3_para_0"
+    ],
+    "context_chars": 2188,
+    "elapsed_ms": 889.1156999998202,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  }
+]
